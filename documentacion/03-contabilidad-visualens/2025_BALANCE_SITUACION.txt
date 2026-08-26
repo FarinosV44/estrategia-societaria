@@ -1,0 +1,85 @@
+                                                                          BALANCE DE SITUACIÓN
+EMPRESA: VISUALENS LABS, SL                                                                  FECHA: 20/08/2026
+Condición: Balance de Situación
+           En el Periodo del 01/01/2025 al 31/12/2025
+
+
+
+
+                                                                 ACTIVO
+
+   B) ACTIVO CORRIENTE                                                                              180.249,17
+      II. EXISTENCIAS                                                                                 2.890,00
+            1. COMERCIALES                                                                            2.890,00
+               300. MERCADERÍAS A                                                                     2.890,00
+      III. DEUDORES COMERCIALES Y OTRAS CUENTAS A COBRAR                                            121.281,37
+            1. CLIENTES POR VENTAS Y PRESTACIONES DE SERVICIOS                                      117.439,23
+               430. CLIENTES                                                                        117.439,23
+            6. OTROS CRÉDITOS CON LAS ADMINISTRACIONES PÚBLICAS                                       3.842,14
+               4700. HACIENDA PÚBLICA, DEUDORA POR IVA                                                   23,66
+               472. HACIENDA PÚBLICA, IVA SOPORTADO                                                     536,18
+               473. HACIENDA PÚBLICA, RETENCIONES Y PAGOS A CUENTA                                    3.282,30
+      VII. EFECTIVOS Y OTROS ACTIVOS LÍQUIDOS EQUIVALENTES                                           56.077,80
+            1. TESORERIA                                                                             56.077,80
+               570. CAJA, EUROS                                                                        -199,36
+               572. BANCOS E INSTITUCIONES DE CRÉDITO C/C VISTA, EUROS                               56.277,16
+
+                                                                            TOTAL   ACTIVO      180.249,17
+
+
+
+
+BALANCE DE SITUACIÓN                                                                                 Página 1
+                                                                                      BALANCE DE SITUACIÓN
+EMPRESA: VISUALENS LABS, SL                                                                                FECHA: 20/08/2026
+Condición: Balance de Situación
+           En el Periodo del 01/01/2025 al 31/12/2025
+
+
+
+
+                                        PATRIMONIO NETO Y PASIVO
+
+   A) PATRIMONIO NETO                                                                                              82.027,44
+      A-1) FONDOS PROPIOS                                                                                          82.027,44
+           I. CAPITAL                                                                                               3.000,00
+                 1. CAPITAL ESCRITURADO                                                                             3.000,00
+                    100. CAPITAL SOCIAL                                                                             3.000,00
+           III. RESERVAS                                                                                           10.093,31
+                 1. LEGAL Y ESTATUTARIAS                                                                              750,00
+                    112. RESERVA LEGAL                                                                                750,00
+                 2. OTRAS RESERVAS                                                                                  9.343,31
+                    1146. RESERVAS DE REVALORIZACIÓN                                                                9.343,31
+           V. RESULTADOS DE EJERCICIOS ANTERIORES                                                                  56.581,20
+                 1. REMANENTE                                                                                      56.581,20
+                    120. REMANENTE                                                                                 56.581,20
+           VII. RESULTADO DEL EJERCICIO                                                                            12.352,93
+                    129. RESULTADO DEL EJERCICIO                                                                   12.352,93
+   B) PASIVO NO CORRIENTE                                                                                          13.941,42
+           II. DEUDAS A LARGO PLAZO                                                                                14.022,38
+                 2. DEUDAS CON ENTIDADES DE CRÉDITO                                                                14.022,38
+                    170. DEUDAS A LARGO PLAZO CON ENTIDADES DE CRÉDITO                                             14.022,38
+           IV. PASIVOS POR IMPUESTO DIFERIDO                                                                          -80,96
+                    479. PASIVOS POR DIFERENCIAS TEMPORARIAS IMPONIBLES                                               -80,96
+   C) PASIVO CORRIENTE                                                                                             84.280,31
+           V. ACREEDORES COMERCIALES Y OTRAS CUENTAS A PAGAR                                                       84.280,31
+                 1. PROVEEDORES                                                                                    55.534,59
+                    400. PROVEEDORES                                                                               55.534,59
+                 3. ACREEDORES VARIOS                                                                                 189,30
+                    410. ACREEDORES POR PRESTACIONES DE SERVICIOS                                                     189,30
+                 4. PERSONAL (REMUNERACIONES PENDIENTES DE PAGO)                                                   10.963,84
+                    465. REMUNERACIONES PENDIENTES DE PAGO                                                         10.963,84
+                 5. PASIVOS POR IMPUESTO CORRIENTE                                                                 12.513,76
+                    4752. HACIENDA PÚBLICA, ACREEDORA POR IMPUESTO SOBRE SOCIEDADES                                12.513,76
+                 6. OTRAS DEUDAS CON LAS ADMINISTRACIONES PÚBLICAS                                                  5.078,82
+                    4750. HACIENDA PÚBLICA, ACREEDORA POR IVA                                                       1.825,61
+                    4751. HACIENDA PÚBLICA, ACREEDORA POR RETENCIONES PRACTICADAS                                   2.665,28
+                    477. HACIENDA PÚBLICA, IVA REPERCUTIDO                                                            587,93
+
+                                                                          TOTAL PATRIMONIO NETO Y PASIVO      180.249,17
+
+
+
+
+BALANCE DE SITUACIÓN                                                                                               Página 2
+
