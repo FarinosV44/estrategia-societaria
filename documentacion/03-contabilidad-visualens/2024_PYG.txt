@@ -1,0 +1,48 @@
+                                                        CUENTA DE PÉRDIDAS Y GANANCIAS
+EMPRESA: VISUALENS LABS, SL                                                           FECHA: 20/08/2026
+Condición: Cuenta de Pérdidas y Ganancias
+           En el Periodo del 01/01/2024 al 31/12/2024
+
+
+
+
+                                CUENTA DE PÉRDIDAS Y GANANCIAS
+
+   A) OPERACIONES CONTINUADAS                                                                 13.257,48
+          1. IMPORTE NETO DE LA CIFRA DE NEGOCIOS                                             47.208,18
+              a) VENTAS                                                                       47.208,18
+                    700. VENTAS DE MERCADERÍAS                                                46.974,43
+                    708. DEVOLUCIONES DE VENTAS Y OPERACIONES SIMILARES                          233,75
+          4. APROVISIONAMIENTOS                                                              -15.479,10
+              a) CONSUMO DE MERCADERÍAS                                                      -15.479,10
+                    600. COMPRAS DE MERCADERÍAS                                              -15.479,10
+          6. GASTOS DE PERSONAL                                                               -2.400,00
+              a) SUELDOS, SALARIOS Y ASIMILADOS                                               -2.400,00
+                    640. SUELDOS Y SALARIOS                                                   -2.400,00
+          7. OTROS GASTOS DE EXPLOTACIÓN                                                     -12.066,91
+              a) SERVICIOS EXTERIORES                                                        -12.060,21
+                    621. ARRENDAMIENTOS Y CÁNONES                                             -7.000,00
+                    623. SERVICIOS DE PROFESIONALES INDEPENDIENTES                            -2.426,09
+                    624. TRANSPORTES                                                            -102,17
+                    628. SUMINISTROS                                                          -2.078,31
+                    629. OTROS SERVICIOS                                                        -453,64
+              b) TRIBUTOS                                                                         -6,70
+                    631. OTROS TRIBUTOS                                                           -6,70
+     A.1) RESULTADO DE EXPLOTACIÓN                                                            17.262,17
+          13. GASTOS FINANCIEROS                                                                 -44,67
+              b) POR DEUDAS CON TERCEROS                                                         -44,67
+                    669. OTROS GASTOS FINANCIEROS                                                -44,67
+     A.2) RESULTADO FINANCIERO                                                                   -44,67
+     A.3) RESULTADO ANTES DE IMPUESTOS                                                        17.217,50
+          17. IMPUESTOS SOBRE BENEFICIOS                                                      -3.960,02
+                    6300. IMPUESTO CORRIENTE                                                  -3.960,02
+     A.4) RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS                       13.257,48
+     A.5) RESULTADO DEL EJERCICIO                                                             13.257,48
+
+                                                                          TOTAL PyG       13.257,48
+
+
+
+
+CUENTA DE PÉRDIDAS Y GANANCIAS                                                                Página 1
+
