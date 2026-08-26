@@ -1,0 +1,100 @@
+                                                                      BALANCE DE SITUACIÓN
+EMPRESA: MAKE-OPTIC, SL                                                                  FECHA: 20/08/2026
+Condición: Balance de Situación
+           En el Periodo del 01/01/2021 al 31/12/2021
+
+
+
+
+                                                             ACTIVO
+
+   A) ACTIVO NO CORRIENTE                                                                        30.854,60
+      II. INMOVILIZADO MATERIAL                                                                  20.016,59
+            1. TERRENOS Y CONSTRUCCIONES                                                         12.113,64
+               211. CONSTRUCCIONES                                                               29.862,39
+               2811. AMORTIZACIÓN ACUMULADA DE CONSTRUCCIONES                                   -17.748,75
+            2. INSTALACIONES TÉCNICAS Y OTRO INMOVILIZADO MATERIAL                                7.902,95
+               213. MAQUINARIA                                                                   54.319,49
+               215. OTRAS INSTALACIONES                                                           2.800,00
+               2813. AMORTIZACIÓN ACUMULADA DE MAQUINARIA                                       -49.216,54
+      V. INVERSIONES FINANCIERAS A LARGO PLAZO                                                   10.838,01
+            5. OTROS ACTIVOS FINANCIEROS                                                         10.838,01
+               265. DEPÓSITOS CONSTITUIDOS A LARGO PLAZO                                         10.838,01
+   B) ACTIVO CORRIENTE                                                                          110.368,30
+      II. EXISTENCIAS                                                                            23.159,00
+            1. COMERCIALES                                                                       23.159,00
+               300. MERCADERÍAS A                                                                23.159,00
+      III. DEUDORES COMERCIALES Y OTRAS CUENTAS A COBRAR                                         13.133,28
+            1. CLIENTES POR VENTAS Y PRESTACIONES DE SERVICIOS                                    8.701,21
+               430. CLIENTES                                                                      8.701,21
+            6. OTROS CRÉDITOS CON LAS ADMINISTRACIONES PÚBLICAS                                   4.432,07
+               4700. HACIENDA PÚBLICA, DEUDORA POR IVA                                            4.432,07
+      VII. EFECTIVOS Y OTROS ACTIVOS LÍQUIDOS EQUIVALENTES                                       74.076,02
+            1. TESORERIA                                                                         74.076,02
+               570. CAJA, EUROS                                                                  74.076,02
+
+                                                                        TOTAL   ACTIVO      141.222,90
+
+
+
+
+BALANCE DE SITUACIÓN                                                                             Página 1
+                                                                                      BALANCE DE SITUACIÓN
+EMPRESA: MAKE-OPTIC, SL                                                                                    FECHA: 20/08/2026
+Condición: Balance de Situación
+           En el Periodo del 01/01/2021 al 31/12/2021
+
+
+
+
+                                        PATRIMONIO NETO Y PASIVO
+
+   A) PATRIMONIO NETO                                                                                              39.737,49
+      A-1) FONDOS PROPIOS                                                                                          39.737,49
+           I. CAPITAL                                                                                               6.000,00
+                 1. CAPITAL ESCRITURADO                                                                             6.000,00
+                    100. CAPITAL SOCIAL                                                                             6.000,00
+           III. RESERVAS                                                                                            2.192,09
+                 2. OTRAS RESERVAS                                                                                  2.192,09
+                    1146. RESERVAS DE REVALORIZACIÓN                                                                2.192,09
+           V. RESULTADOS DE EJERCICIOS ANTERIORES                                                                  24.405,74
+                 1. REMANENTE                                                                                      24.828,73
+                    120. REMANENTE                                                                                 24.828,73
+                 2. (RESULTADOS NEGATIVOS DE EJERCICIOS ANTERIORES)                                                  -422,99
+                    121. RESULTADOS NEGATIVOS DE EJERCICIOS ANTERIORES                                               -422,99
+           VII. RESULTADO DEL EJERCICIO                                                                             7.139,66
+                    129. RESULTADO DEL EJERCICIO                                                                    7.139,66
+   B) PASIVO NO CORRIENTE                                                                                          15.640,95
+           II. DEUDAS A LARGO PLAZO                                                                                15.924,75
+                 2. DEUDAS CON ENTIDADES DE CRÉDITO                                                                15.924,75
+                    170. DEUDAS A LARGO PLAZO CON ENTIDADES DE CRÉDITO                                             15.924,75
+           IV. PASIVOS POR IMPUESTO DIFERIDO                                                                         -283,80
+                    479. PASIVOS POR DIFERENCIAS TEMPORARIAS IMPONIBLES                                              -283,80
+   C) PASIVO CORRIENTE                                                                                             85.844,46
+           III. DEUDAS A CORTO PLAZO                                                                                  752,01
+                 2. DEUDAS CON ENTIDADES DE CRÉDITO                                                               -10.397,53
+                    520. DEUDAS A CORTO PLAZO CON ENTIDADES DE CRÉDITO                                            -10.397,53
+                 5. OTROS PASIVOS FINANCIEROS                                                                      11.149,54
+                    551. CUENTA CORRIENTE CON SOCIOS Y ADMINISTRADORES                                              8.888,86
+                    555. PARTIDAS PENDIENTES DE APLICACIÓN                                                          2.260,68
+           V. ACREEDORES COMERCIALES Y OTRAS CUENTAS A PAGAR                                                       85.092,45
+                 1. PROVEEDORES                                                                                    46.277,73
+                    400. PROVEEDORES                                                                               46.277,73
+                 3. ACREEDORES VARIOS                                                                               4.234,87
+                    410. ACREEDORES POR PRESTACIONES DE SERVICIOS                                                   4.234,87
+                 4. PERSONAL (REMUNERACIONES PENDIENTES DE PAGO)                                                   10.022,59
+                    465. REMUNERACIONES PENDIENTES DE PAGO                                                         10.022,59
+                 5. PASIVOS POR IMPUESTO CORRIENTE                                                                  3.162,31
+                    4752. HACIENDA PÚBLICA, ACREEDORA POR IMPUESTO SOBRE SOCIEDADES                                 3.162,31
+                 6. OTRAS DEUDAS CON LAS ADMINISTRACIONES PÚBLICAS                                                 21.394,95
+                    4750. HACIENDA PÚBLICA, ACREEDORA POR IVA                                                      12.971,47
+                    4751. HACIENDA PÚBLICA, ACREEDORA POR RETENCIONES PRACTICADAS                                   6.689,13
+                    476. ORGANISMOS DE LA SEGURIDAD SOCIAL, ACREEDORES                                              1.734,35
+
+                                                                          TOTAL PATRIMONIO NETO Y PASIVO      141.222,90
+
+
+
+
+BALANCE DE SITUACIÓN                                                                                               Página 2
+
