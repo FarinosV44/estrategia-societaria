@@ -1,0 +1,54 @@
+                                                        CUENTA DE PÉRDIDAS Y GANANCIAS
+EMPRESA: MAKE-OPTIC, SL                                                               FECHA: 20/08/2026
+Condición: Cuenta de Pérdidas y Ganancias
+           En el Periodo del 01/01/2023 al 31/12/2023
+
+
+
+
+                                CUENTA DE PÉRDIDAS Y GANANCIAS
+
+   A) OPERACIONES CONTINUADAS                                                                 46.525,65
+          1. IMPORTE NETO DE LA CIFRA DE NEGOCIOS                                            430.539,99
+              a) VENTAS                                                                      430.539,99
+                    700. VENTAS DE MERCADERÍAS                                               431.080,33
+                    708. DEVOLUCIONES DE VENTAS Y OPERACIONES SIMILARES                         -540,34
+          4. APROVISIONAMIENTOS                                                             -123.708,51
+              a) CONSUMO DE MERCADERÍAS                                                     -123.708,51
+                    600. COMPRAS DE MERCADERÍAS                                             -130.867,53
+                    6080. DEVOLUCIONES DE COMPRAS DE MERCADERÍAS                               5.468,42
+                    6090. "RAPPELS" POR COMPRAS DE MERCADERÍAS                                 1.690,60
+          6. GASTOS DE PERSONAL                                                             -172.935,80
+              a) SUELDOS, SALARIOS Y ASIMILADOS                                             -144.928,28
+                    640. SUELDOS Y SALARIOS                                                 -144.928,28
+              b) CARGAS SOCIALES                                                             -28.007,52
+                    642. SEGURIDAD SOCIAL A CARGO DE LA EMPRESA                              -28.007,52
+          7. OTROS GASTOS DE EXPLOTACIÓN                                                     -70.111,00
+              a) SERVICIOS EXTERIORES                                                        -70.111,00
+                    621. ARRENDAMIENTOS Y CÁNONES                                            -37.245,03
+                    623. SERVICIOS DE PROFESIONALES INDEPENDIENTES                            -7.082,69
+                    624. TRANSPORTES                                                          -7.348,47
+                    626. SERVICIOS BANCARIOS Y SIMILARES                                      -2.541,15
+                    627. PUBLICIDAD, PROPAGANDA Y RELACIONES PÚBLICAS                         -5.595,00
+                    628. SUMINISTROS                                                          -7.974,23
+                    629. OTROS SERVICIOS                                                      -2.324,43
+          8. AMORTIZACIÓN DEL INMOVILIZADO                                                    -3.112,78
+                    681. AMORTIZACIÓN DEL INMOVILIZADO MATERIAL                               -3.112,78
+     A.1) RESULTADO DE EXPLOTACIÓN                                                            60.671,90
+          13. GASTOS FINANCIEROS                                                                -248,98
+              b) POR DEUDAS CON TERCEROS                                                        -248,98
+                    669. OTROS GASTOS FINANCIEROS                                               -248,98
+     A.2) RESULTADO FINANCIERO                                                                  -248,98
+     A.3) RESULTADO ANTES DE IMPUESTOS                                                        60.422,92
+          17. IMPUESTOS SOBRE BENEFICIOS                                                     -13.897,27
+                    6300. IMPUESTO CORRIENTE                                                 -13.897,27
+     A.4) RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS                       46.525,65
+     A.5) RESULTADO DEL EJERCICIO                                                             46.525,65
+
+                                                                          TOTAL PyG       46.525,65
+
+
+
+
+CUENTA DE PÉRDIDAS Y GANANCIAS                                                                Página 1
+
