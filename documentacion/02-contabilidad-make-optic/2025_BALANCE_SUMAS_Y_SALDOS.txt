@@ -1,0 +1,354 @@
+                                                                 BALANCE DE SUMAS Y SALDOS
+EMPRESA: MAKE-OPTIC, SL                                                                                   FECHA: 20/08/2026
+Condición: Desde la SUBCUENTA 1000000000 a la 7999999999
+           En el PERIODO del 01/01/2025 al 31/12/2025
+
+
+Subcuenta      Nombre de la Subcuenta                             Saldo Inicial       Debe       Haber                Saldo
+
+1000           CAPITAL SOCIAL                                        -6.000,00         0,00        0,00            -6.000,00
+1000000001     CAPITAL SOCIAL                                        -6.000,00         0,00        0,00            -6.000,00
+1120           RESERVA LEGAL                                         -1.500,00         0,00        0,00            -1.500,00
+1120000000     RESERVA LEGAL                                         -1.500,00         0,00        0,00            -1.500,00
+1146           RESERVAS DE REVALORIZACIÓN                           -14.416,21         0,00        0,00           -14.416,21
+1146000001     RESERVA CAPITALIZAACION 2020                          -1.496,62         0,00        0,00            -1.496,62
+1146000002     RESERVA NIVELACION 2020                                 -695,47         0,00        0,00              -695,47
+1146000003     RESERVA NIVELACION 2021                                 -761,57         0,00        0,00              -761,57
+1146000004     RESERVA CAPITALIZACION 2022                             -714,07         0,00        0,00              -714,07
+1146000005     RESERVA NIVELACION 2022                               -3.022,09         0,00        0,00            -3.022,09
+1146000006     RESERVA CAPITALIZACION 2023                           -1.871,22         0,00        0,00            -1.871,22
+1146000007     RESERVA NIVELACION 2023                               -5.855,17         0,00        0,00            -5.855,17
+1200           REMANENTE                                            -90.924,70         0,00        0,00           -90.924,70
+1200000001     REMANENTE EJERCICIO 2009                              -1.660,49         0,00        0,00            -1.660,49
+1200000002     REMANENTE EJER 2010                                   -2.321,58         0,00        0,00            -2.321,58
+1200000003     REMANENTE EJERCICIO 2011                             -15.868,42         0,00        0,00           -15.868,42
+1200000010     REMANENTE EJER 2020                                   -4.978,24         0,00        0,00            -4.978,24
+1200000011     REMANENTE EJER 2021                                   -7.139,66         0,00        0,00            -7.139,66
+1200000012     REMANENTE EJER 2022                                  -18.712,28         0,00        0,00           -18.712,28
+1200000013     REMANENTE EJER 2023                                  -40.244,03         0,00        0,00           -40.244,03
+1210           RESULTADOS NEGATIVOS DE EJERCICIOS ANTERIORES         14.593,82    14.170,83   14.170,83            14.593,82
+1210000000     RESULTADOS NEGATIVOS DE EJERCICIOS ANTERIORES         14.170,83         0,00   14.170,83                 0,00
+1210000005     RESULOT NEGAT EJER 2012                                  422,99         0,00        0,00               422,99
+1210000008     RESULT NEGAT EJER 2024                                     0,00    14.170,83        0,00            14.170,83
+1700           DEUDAS A LARGO PLAZO CON ENTIDADES DE CRÉDITO        -15.924,75         0,00        0,00           -15.924,75
+1700000002     PTMO 807581698293                                    -15.924,75         0,00        0,00           -15.924,75
+2110           CONSTRUCCIONES                                        29.862,39         0,00        0,00            29.862,39
+2110000001     REFORMA BAJO OPT. 12/11                               17.140,10         0,00        0,00            17.140,10
+2110000002     REFOR.TIENDA 2012                                     12.722,29         0,00        0,00            12.722,29
+2130           MAQUINARIA                                            54.319,49         0,00        0,00            54.319,49
+2130000000     MAQUINARIA                                             4.500,00         0,00        0,00             4.500,00
+2130000002     BISELADORA 04/06                                      27.193,53         0,00        0,00            27.193,53
+2130000003     COL. DE REFRAC,FOROP,PROY.5/10                         2.803,74         0,00        0,00             2.803,74
+2130000004     SOLDADORA ELECTRICA 03/11                              3.100,00         0,00        0,00             3.100,00
+2130000005     AUDIOMETRO                                            12.222,22         0,00        0,00            12.222,22
+2130000006     TRACER HUVITZ                                          4.500,00         0,00        0,00             4.500,00
+2150           OTRAS INSTALACIONES                                    2.800,00         0,00        0,00             2.800,00
+2150000002     CABINA AUDIOMETRIA                                     2.800,00         0,00        0,00             2.800,00
+2650           DEPÓSITOS CONSTITUIDOS A LARGO PLAZO                  10.838,01         0,00        0,00            10.838,01
+2650000001     DEPOSITO SEA BRIGADA SANIDAD                          10.838,01         0,00        0,00            10.838,01
+2811           AMORTIZACIÓN ACUMULADA DE CONSTRUCCIONES             -23.124,00         0,00    1.791,75           -24.915,75
+2811000001     AMORT.ACUM.REFOR.2011 6%                             -13.455,03         0,00    1.028,41           -14.483,44
+2811000002     AMORT.ACUM.REFORMA TIENDA 5/12                        -9.668,97         0,00      763,34           -10.432,31
+2813           AMORTIZACIÓN ACUMULADA DE MAQUINARIA                 -52.562,57         0,00      278,01           -52.840,58
+2813000000     AMORTIZACIÓN ACUMULADA DE MAQUINARIA                  -4.221,99         0,00      278,01            -4.500,00
+2813000002     AMORT.ACUM.BISELADORA 18%                            -25.714,62         0,00        0,00           -25.714,62
+2813000003     AMORT.ACUM.CULIMN.REFRE 18%                           -2.803,74         0,00        0,00            -2.803,74
+2813000004     AMORT.ACUM.SOLD.ELEC. 15%                             -3.100,00         0,00        0,00            -3.100,00
+2813000005     AMORT.ACUM.AUDIMETRO 3/12 15%                        -12.222,22         0,00        0,00           -12.222,22
+2813000006     AMORT ACUM TREACER HUVITZ                             -4.500,00         0,00        0,00            -4.500,00
+3000           MERCADERÍAS A                                         58.900,00         0,00        0,00            58.900,00
+3000000001     EXISTENCIAS                                           58.900,00         0,00        0,00            58.900,00
+4000           PROVEEDORES (EUROS)                                  -56.123,43    69.236,15   63.993,54           -50.880,82
+4000000003     IND.DE OPTICA PRATS, SL                               -3.882,34       659,11      352,15            -3.575,38
+4000000008     S.C.COPTIVAL ZAS VISION                                    0,00       159,93      159,93                 0,00
+4000000014     CIOSA, SL                                                  0,00    48.993,90   41.775,54             7.218,36
+4000000027     COOPERVISION IBERIA, SRLU                             -9.895,73       357,58        0,00            -9.538,15
+4000000036     PANOPTICA                                                  0,00       355,09      355,09                 0,00
+4000000046     SOLID TREND, SL                                         -226,60         0,00        0,00              -226,60
+4000000049     EYE ART, SL                                             -583,30     1.119,06    1.119,06              -583,30
+4000000050     VISUALENS LABS                                       -17.944,89         0,00        0,00           -17.944,89
+4000000056     DIGI                                                       0,00       208,07      208,07                 0,00
+4000000066     PROOPTICA                                             -4.610,94       172,21        0,00            -4.438,73
+4000000068     SHOPIFY INTERNATIONAL LIMITED                              0,00       177,78      177,78                 0,00
+4000000070     COCO TIME, S.L.                                            0,00     1.598,85    1.598,85                 0,00
+4000000071     ZAS VISION                                                 0,00       187,76      187,76                 0,00
+4000000105     LENTIMOP, SL                                               0,00       716,25    2.165,65            -1.449,40
+4000000108     DELY ORGAZ, SL                                          -190,63       109,06      109,06              -190,63
+4000000115     ASP 96, SL                                            -1.493,09        46,67      140,14            -1.586,56
+4000000116     CARL ZEISS VISION, SL                                      0,00       636,90      876,59              -239,69
+4000000118     VISIONIS DISTRIBUCION, SL                             -6.903,00    13.728,03   14.757,97            -7.932,94
+4000000119     DALT DEL SOL, SL                                     -10.392,91         9,90        9,90           -10.392,91
+4100           ACREEDORES POR PRESTACIONES DE SERVICIOS (EUROS       -2.638,25    47.571,12   49.777,40            -4.844,53
+4100000006     VODAFONE ESPAÑA, SA                                        0,00     2.019,53    2.019,53                 0,00
+4100000021     DGA CONSULTORES, SL                                        0,00     5.115,88    5.115,88                 0,00
+
+                                SUMA PARCIAL.......                -89.261,95     90.542,39   87.369,54          -86.089,10
+
+
+
+BALANCE DE SUMAS Y SALDOS                                                                                         Página 1
+                                                           BALANCE DE SUMAS Y SALDOS
+EMPRESA: MAKE-OPTIC, SL                                                                               FECHA: 20/08/2026
+Condición: Desde la SUBCUENTA 1000000000 a la 7999999999
+           En el PERIODO del 01/01/2025 al 31/12/2025
+
+
+Subcuenta      Nombre de la Subcuenta                       Saldo Inicial        Debe        Haber                Saldo
+
+                              SUMA ANTERIOR.......           -89.261,95      90.542,39    87.369,54          -86.089,10
+
+4100000043     PASTOR BENSACH, VERONICA                             0,00      6.122,52     6.122,52                 0,00
+4100000057     REGISTROS MERCANTIL DE VALENCIA                      0,00         46,18        46,18                 0,00
+4100000066     HERGAR, CB                                           0,00      7.344,00     7.344,00                 0,00
+4100000077     NABALIA ENERGIA, SA                                  0,00      2.140,84     2.140,84                 0,00
+4100000084     CATALA BOLUDA, JORGE                            -2.504,70      1.730,30     3.540,46            -4.314,86
+4100000086     FNMT                                                 0,00         29,04        29,04                 0,00
+4100000089     FTP COMPUTERS.                                       0,00        403,92       403,92                 0,00
+4100000091     CORREOS EXPRESS, SA                                  0,00        323,82       320,87                 2,95
+4100000107     DE LAGE LANDEN INTERNACIONAL B.V.                    0,00     18.677,06    19.076,13              -399,07
+4100000129     SENDCLOUD                                            0,00      2.170,80     2.170,80                 0,00
+4100000131     XFERA MOVILES, SA                                    0,00         54,74        54,74                 0,00
+4100000133     NETWORKS FIBRA VALENCIA                              0,00      1.204,26     1.204,26                 0,00
+4100000135     DIGI SPAIN TELECOM, SLU                            -81,10          0,00         0,00               -81,10
+4100000136     REALVNC                                            -52,45          0,00         0,00               -52,45
+4100000137     STRATOR                                              0,00          6,90         6,90                 0,00
+4100000138     DINAHOSTING, S.L.                                    0,00         90,73        90,73                 0,00
+4100000139     DISTRIBUIDORA IBERICA PRO OPTICOS, SL                0,00         32,86        32,86                 0,00
+4100000140     REGISTRO MERCANTIL DE VALENCIA CB                    0,00         57,74        57,74                 0,00
+4300           CLIENTES (EUROS)                                14.224,61    184.671,90    82.214,01           116.682,50
+4300000014     GARCIA MATEOS, J                                     0,00         13,31         0,00                13,31
+4300000023     OPTICA VCIANA MARIN, SL                              0,00        183,20         0,00               183,20
+4300000033     OPTICA MAR ARGUDO                                   43,08        277,61         0,00               320,69
+4300000034     CENTRE DE SALUT VISUAL, SL                          18,63        359,85         0,00               378,48
+4300000037     BAUTISTA MORA, JOSE FRCO                             0,00         12,10         0,00                12,10
+4300000041     TERESA GONZALEZ MORET                              481,29      4.445,80         0,00             4.927,09
+4300000043     GARCIA CONTELL-PONS, CB                            176,95      2.108,13         0,00             2.285,08
+4300000050     DEVIS LLORET, Mª ISABEL                            124,82        392,61         0,00               517,43
+4300000051     PASCUAL COTANDA, ANA                                -1,80         97,19         0,00                95,39
+4300000052     RIBELLES LERGA, AMADEO                              18,03        402,87         0,00               420,90
+4300000058     CATALA ESCRIVA, LAURA                                0,00        106,72         0,00               106,72
+4300000062     SDA COOP. COPTIVAL ZAS VISION                      859,41     11.473,75         0,00            12.333,16
+4300000075     SANCHIS Y CHAMERO, SL                              119,55        230,03         0,00               349,58
+4300000077     FERNANDEZ-VICENTI, EMMA                             39,69        833,14         0,00               872,83
+4300000088     ESCUTIA PUIG, MARIA ORETO                           13,19        402,81         0,00               416,00
+4300000095     REVIRIEGO AMOR, IVAN                               160,12      1.827,14         0,00             1.987,26
+4300000097     ESTEREO-VISION, SL                                   0,00         29,88         0,00                29,88
+4300000098     OPTICA LES ALFABEGUES, CB                          124,99          0,00         0,00               124,99
+4300000099     CLIENTES VARIOS OPTICA 44                            0,00    103.002,64    81.421,02            21.581,62
+4300000100     PEIRO CONEJOS, JULIO ENRIQUE                        53,13        605,41         0,00               658,54
+4300000121     BARELLES PASTOR, FRANCISCA                          32,01      1.002,63         0,00             1.034,64
+4300000132     GRUPO OPTICO PARRILLA LLORENTE                       0,00         82,45         0,00                82,45
+4300000146     GAVINETES ESP.DE LEVANTE, SL                         0,00        141,22         0,00               141,22
+4300000150     OPTICA ROYO, SL                                      0,00         34,34         0,00                34,34
+4300000154     HIDALGO IBAÑEZ, PALOMA                              77,32        273,76         0,00               351,08
+4300000156     GEROPCLE, SL                                        56,79      1.303,02         0,00             1.359,81
+4300000161     CUARTERO GARCIA, ROBERTO                             0,00         84,94         0,00                84,94
+4300000163     NOVA OPTICA, SL                                    467,53      4.787,28         0,00             5.254,81
+4300000191     OPTICA DUANE, SL                                    69,58        356,80         0,00               426,38
+4300000200     HONGUERO ESTRADA, Mª MERCEDES                       13,07        274,07         0,00               287,14
+4300000217     VAPA PHARMAINVERS S.L                                0,00        331,67         0,00               331,67
+4300000226     MOLINS OPTICS S.L                                    0,00        461,49         0,00               461,49
+4300000239     LOPEZ HERNANDEZ EVA MARIA                            0,00         54,57         0,00                54,57
+4300000246     OPTICA CAMPANAR, SL                                 35,82        146,77         0,00               182,59
+4300000248     TENA PERALES, RAUL                                  65,56        473,57         0,00               539,13
+4300000249     HUERTAS CLARAMONTE, AMPARO                          35,21        290,38         0,00               325,59
+4300000282     VISUALTORRENT S.L                                    0,00         15,73         0,00                15,73
+4300000306     MORENO VIVAS ANTONIO                                 0,00         35,09         0,00                35,09
+4300000318     ORTOVISION CENTRAL, SL                               0,00         98,12         0,00                98,12
+4300000333     CTRO OPTICO MEDITERRANEA MONCADA, SL                 0,00         17,55         0,00                17,55
+4300000334     LOPEZ PARRILLA, EVA                                 15,73          0,00         0,00                15,73
+4300000336     GRUPTECER OPTICS, SL                             6.468,73      2.016,05         0,00             8.484,78
+4300000338     OPTICA CIUDAD DE LAS CIENCIAS                       93,17        366,21         0,00               459,38
+4300000340     DOMENECH BADENES, EDUARDO RAMON                      0,00         38,84         0,00                38,84
+4300000341     OPTICA NOVALUS, SL                                   0,00        103,69         0,00               103,69
+4300000342     SANCHEZ CABRERA OPTICA, S.L.                         0,00         43,56         0,00                43,56
+4300000345     RELUXVISION SLU                                     22,06        156,77         0,00               178,83
+4300000346     TALOS VISION, SL                                     0,00         35,09         0,00                35,09
+4300000348     DIES OPTICAS SL                                      0,00         11,37         0,00                11,37
+4300000350     CDR OPTICS S.L                                      53,94      1.235,22         0,00             1.289,16
+4300000352     INMACULADA NOEMI MOLLA SOLER                        95,15        810,21         0,00               905,36
+4300000354     OPTICALIA ONTIYENT                                   0,00         18,39         0,00                18,39
+4300000357     ANA DIAZ PASTRANA                                   73,58        717,28         0,00               790,86
+4300000362     CRISTINA MAYOR                                       0,00         13,31         0,00                13,31
+
+                                SUMA PARCIAL.......          -81.993,87     273.613,73   211.432,55          -19.812,69
+
+
+
+BALANCE DE SUMAS Y SALDOS                                                                                     Página 2
+                                                                BALANCE DE SUMAS Y SALDOS
+EMPRESA: MAKE-OPTIC, SL                                                                                    FECHA: 20/08/2026
+Condición: Desde la SUBCUENTA 1000000000 a la 7999999999
+           En el PERIODO del 01/01/2025 al 31/12/2025
+
+
+Subcuenta      Nombre de la Subcuenta                            Saldo Inicial        Debe        Haber                Saldo
+
+                              SUMA ANTERIOR.......                -81.993,87     273.613,73   211.432,55          -19.812,69
+
+4300000367     VISTA A LA MAR OPTICOS S.L                               38,54        404,47         0,00               443,01
+4300000372     MUNERA TAMARIT, JUAN                                     65,95        426,90         0,00               492,85
+4300000373     OPTICA RUBLAN, SLU                                       71,51        320,94         0,00               392,45
+4300000375     PAULA RODRIGUEZ ANEIROS                                 229,09      2.931,48         0,00             3.160,57
+4300000376     DE LA SERRA SANCHEZ, BEATRIZ                             11,25         24,68         0,00                35,93
+4300000379     RIBERA SANZ, SL                                           0,00          3,96         0,00                 3,96
+4300000381     OPTICA DEL PENEDES, S.L                                   6,53        239,83         0,00               246,36
+4300000391     SANTAMARIA BALZA, M CARMEN                                0,00      1.037,51         0,00             1.037,51
+4300000392     DE DIOS BERMELL, AMPARO                                  61,47      1.492,93         0,00             1.554,40
+4300000393     SERV.OPT.E.HURTADO, SL                                   24,44        176,06         0,00               200,50
+4300000394     SANTAMARIA BALZA, CARMEN                                609,11      4.789,37         0,00             5.398,48
+4300000401     ICARE GROUP                                               0,00          0,00       480,00              -480,00
+4300000403     DOSMIRADAS2020, SL                                        0,00         24,68         0,00                24,68
+4300000407     OPTICAS HERRAL, SL                                       35,45        149,69         0,00               185,14
+4300000408     NOVA VISION TORRENT,S.L                                  15,61        644,68         0,00               660,29
+4300000409     GILABERT MOLINA RUBEN                                     0,00         16,82         0,00                16,82
+4300000412     INVERSIONES LA TRAVESA                                  115,80        213,45         0,00               329,25
+4300000414     MARTXA OPTICOS S.L                                       55,64      1.620,49         0,00             1.676,13
+4300000415     OPTICAS EL VEDAT                                        115,68        270,92         0,00               386,60
+4300000417     VICTOR JUAQUIN GOMEZ SANDEZ                              18,93        438,24         0,00               457,17
+4300000418     COMO SAS                                                  0,00        480,00         0,00               480,00
+4300000419     LLORENT FABREGAT, ELISA                                   0,00        131,98         0,00               131,98
+4300000420     CARMELO                                                   0,00         31,46         0,00                31,46
+4300000426     NITA VISON, SLU                                           0,00        376,40         0,00               376,40
+4300000430     OPTICA VALL, SL                                           0,00         83,25         0,00                83,25
+4300000431     MELO GINER, SONIA                                         0,00         64,85         0,00                64,85
+4300000433     DEVA VISION S.L.U.                                        0,00        180,11         0,00               180,11
+4300000438     JUNO VISION S.L.                                          0,00         95,85         0,00                95,85
+4300000441     VILLANUEVA SOLER, MARIA                                   0,00         14,52         0,00                14,52
+4300000442     GAFASONLINE S.L                                           0,00        237,33         0,00               237,33
+4300000443     PALOP HIDALGO, PABLO                                      0,00         17,18         0,00                17,18
+4300000453     OPTICA VALTERNA C.B                                      14,16        158,37         0,00               172,53
+4300000462     R.PERALES,S.L.                                            0,00        164,25         0,00               164,25
+4300000463     LAURA ALONSO GRANELL                                     19,24        168,92         0,00               188,16
+4300000476     ARENA OPTICA 16 S.L                                     693,92      3.342,24         0,00             4.036,16
+4300000486     SOLID TREND S.L                                           0,00      4.709,78         0,00             4.709,78
+4300000487     OPTICALIA CLARAMUNT                                      36,30        392,43         0,00               428,73
+4300000489     PATERNAVISION                                            13,79        655,01         0,00               668,80
+4300000501     MARIA JOSE CARCELLER SANCHEZ                             14,52        101,64         0,00               116,16
+4300000505     AUDIOVISION OLICARES                                    239,89      2.739,40         0,00             2.979,29
+4300000507     OPTICA JORGE CABAÑES                                      0,00         52,63         0,00                52,63
+4300000516     LAERTOS VISION, SL                                       30,01        297,06         0,00               327,07
+4300000518     CALLPER BONAVISTA, S.L                                   36,30        156,36         0,00               192,66
+4300000519     ORETO HERNANDEZ OPTICA                                   33,40         62,10         0,00                95,50
+4300000522     VISUALTORRENT S.L                                        27,59        117,98         0,00               145,57
+4300000531     NEWCO RETAIL LEVANTE 1,S.L.U.                           404,62      3.514,17         0,00             3.918,79
+4300000533     SALINAS OPTICOS S.L                                      58,08         33,88         0,00                91,96
+4300000540     NEWCO RETAIL LEVANTE 12 2 A                               0,01          0,00         0,00                 0,01
+4300000542     OPTICA VISTALEA                                          13,19        104,31         0,00               117,50
+4300000543     MURUZABAL JAIME SHEILA E IRENE                            0,00         25,17         0,00                25,17
+4300000546     RIGEL VISION S.L                                        786,97      3.271,83         0,00             4.058,80
+4300000551     MªJOSE MESEGUER MUÑOZ                                     8,95        248,78         0,00               257,73
+4300000555     EVA LOPEZ PARRILLA                                        0,00         10,29         0,00                10,29
+4300000556     OVEJERO VISION SL                                       129,59      1.346,64         0,00             1.476,23
+4300000557     OPTICA ARGENTE S.L                                        0,00         59,89         0,00                59,89
+4300000568     OLEK VISION SLU                                         129,79      1.013,08         0,00             1.142,87
+4300000571     MARCOS ARIAZA ZABALLOS                                    0,00         11,25         0,00                11,25
+4300000580     BEATRIZ CANO CASTAÑER                                   140,84      1.645,86         0,00             1.786,70
+4300000585     MAIKHARETAILSL                                            0,00         25,17         0,00                25,17
+4300000999     CLIENTES VARIOS OPTICA 44 21                              0,00        312,99       312,99                 0,00
+4300001425     JOSE VICENTE TOMAS GARCIA                                12,12        354,76         0,00               366,88
+4600           ANTICIPOS DE REMUNERACIONES                               0,00      5.028,50     7.039,90            -2.011,40
+4600000000     ANTICIPOS DE REMUNERACIONES                               0,00      5.028,50     7.039,90            -2.011,40
+4650           REMUNERACIONES PENDIENTES DE PAGO                        -0,47     13.596,93    16.542,17            -2.945,71
+4650000000     REMUNERACIONES PENDIENTES DE PAGO                        -0,47     13.596,93    16.542,17            -2.945,71
+4700           HACIENDA PÚBLICA, DEUDORA POR IVA                     4.432,07      1.955,23         0,00             6.387,30
+4700000000     HACIENDA PÚBLICA, DEUDORA POR IVA                         0,00      1.955,23         0,00             1.955,23
+4700000099     HACIENDA PÚBLICA, IVA A DEVOLVER                      4.432,07          0,00         0,00             4.432,07
+4720           HACIENDA PÚBLICA, IVA SOPORTADO                           0,00     15.097,99    12.990,53             2.107,46
+4720000005     IVA SOPORTADO 5%                                          0,00         39,23        31,36                 7,87
+4720000010     IVA SOPORTADO 10%                                         0,00      5.054,02     4.521,85               532,17
+4720000021     IVA SOPORTADO 21%                                         0,00     10.004,74     8.437,32             1.567,42
+4730           HACIENDA PÚBLICA, RETENCIONES Y PAGOS A CUENTA        1.223,98          0,00         0,00             1.223,98
+
+                                SUMA PARCIAL.......               -73.243,99     351.328,65   248.798,14           29.286,52
+
+
+
+BALANCE DE SUMAS Y SALDOS                                                                                          Página 3
+                                                                  BALANCE DE SUMAS Y SALDOS
+EMPRESA: MAKE-OPTIC, SL                                                                                      FECHA: 20/08/2026
+Condición: Desde la SUBCUENTA 1000000000 a la 7999999999
+           En el PERIODO del 01/01/2025 al 31/12/2025
+
+
+Subcuenta      Nombre de la Subcuenta                              Saldo Inicial        Debe        Haber                Saldo
+
+                              SUMA ANTERIOR.......                  -73.243,99     351.328,65   248.798,14           29.286,52
+
+4730000000     HACIENDA PÚBLICA, RETENCIONES Y PAGOS A CUENTA         1.223,98           0,00         0,00             1.223,98
+4745           CRÉDITO POR PÉRDIDAS A COMPENSAR DEL EJERCICIO..       4.233,14           0,00         0,00             4.233,14
+4745000008     CDTO PDAS A COMP EJER 2024                             4.233,14           0,00         0,00             4.233,14
+4750           HACIENDA PÚBLICA, ACREEDORA POR IVA                   -2.399,71           0,00     4.475,29            -6.875,00
+4750000000     HACIENDA PÚBLICA, ACREEDORA POR IVA                   -1.205,10           0,00     4.475,29            -5.680,39
+4750000019     APZO IVA 3T 2024                                      -1.194,61           0,00         0,00            -1.194,61
+4751           HACIENDA PÚBLICA, ACREEDORA POR RETENCIONES PR        -3.397,06       5.203,82     5.146,03            -3.339,27
+4751000000     HACIENDA PÚBLICA, ACREEDORA POR RETENCIONES PRA       -2.028,82       3.208,46     2.637,55            -1.457,91
+4751000002     RETENCIONES ALQUILER                                  -1.368,24       1.995,36     2.508,48            -1.881,36
+4752           HACIENDA PÚBLICA, ACREEDORA POR IMPUESTO SOBR         -6.965,09           0,00         0,00            -6.965,09
+4752000004     APZO IMP SOCIEDADES 2023                              -6.965,09           0,00         0,00            -6.965,09
+4760           ORGANISMOS DE LA SEGURIDAD SOCIAL, ACREEDORES           -824,80       3.373,87     2.549,07                 0,00
+4760000000     ORGANISMOS DE LA SEGURIDAD SOCIAL, ACREEDORES           -824,80       3.373,87     2.549,07                 0,00
+4770           HACIENDA PÚBLICA, IVA REPERCUTIDO                          0,00      15.164,20    21.435,33            -6.271,13
+4770000000     HACIENDA PÚBLICA, IVA REPERCUTIDO                          0,00           0,00         0,00                 0,00
+4770000010     IVA RERCUTIDO 10%                                          0,00       7.873,83    12.304,69            -4.430,86
+4770000021     IVA REPERCUTIDO 21%                                        0,00       6.715,37     8.443,78            -1.728,41
+4770000088     H.P. IVA REPERCUTIDO PARA INV. SUJETO PASIVO               0,00           0,00         1,10                -1,10
+4770000099     H.P. IVA REPERCUTIDO PARA ADQ. INTRACOMUNITARIAS           0,00         423,80       494,65               -70,85
+4770000144     IVA REPERCUTIDO 1,4%                                       0,00          59,89        72,90               -13,01
+4770000522     IVA REPECUTIDO R.E. 5,2%                                   0,00          91,31       118,21               -26,90
+4790           PASIVOS POR DIFERENCIAS TEMPORARIAS IMPONIBLES           288,28           0,00         0,00               288,28
+4790000000     PASIVOS POR DIFERENCIAS TEMPORARIAS IMPONIBLES           288,28           0,00         0,00               288,28
+5201           DEUDAS A CORTO PLAZO POR CRÉDITO DISPUESTO           -46.168,25           0,00         0,00           -46.168,25
+5201000001     BCO SABADELL CTA 0001638565                          -46.168,25           0,00         0,00           -46.168,25
+5510           CUENTA CORRIENTE CON SOCIOS Y ADMINISTRADORES         -8.888,86           0,00         0,00            -8.888,86
+5510000001     CTA SOCIOS AURELIO                                    -4.444,43           0,00         0,00            -4.444,43
+5510000003     APORT.SOCIOS PEPE                                     -4.444,43           0,00         0,00            -4.444,43
+5550           PARTIDAS PENDIENTES DE APLICACIÓN                     -2.260,68           0,00         0,00            -2.260,68
+5550000000     PARTIDAS PENDIENTES DE APLICACIÓN                     -2.260,68           0,00         0,00            -2.260,68
+5700           CAJA, EUROS                                                0,00      82.231,45    65.107,63            17.123,82
+5700000003     DIARIO AUX. TESORERIA                                      0,00      82.231,45    65.107,63            17.123,82
+5720           BANCOS E INSTITUCIONES DE CRÉDITO C/C VISTA, EUR     138.403,04           0,00    74.867,66            63.535,38
+5720000099     DIARIO AUX BANCOS                                    138.403,04           0,00    74.867,66            63.535,38
+6000           COMPRAS DE MERCADERÍAS                                     0,00      57.387,53         0,00            57.387,53
+6000000000     COMPRAS DE MERCADERÍAS                                     0,00         293,47         0,00               293,47
+6000000001     COMPRAS                                                    0,00      57.094,06         0,00            57.094,06
+6080           DEVOLUCIONES DE COMPRAS DE MERCADERÍAS                     0,00           0,00     3.688,71            -3.688,71
+6080000000     DEVOLUCIONES DE COMPRAS DE MERCADERÍAS                     0,00           0,00     3.688,71            -3.688,71
+6210           ARRENDAMIENTOS Y CÁNONES                                   0,00      28.967,96         0,00            28.967,96
+6210000000     ARRENDAMIENTOS Y CÁNONES                                   0,00      15.765,44         0,00            15.765,44
+6210000001     ALQUILERES GUILLEM DE CASTRO 44                            0,00       6.002,52         0,00             6.002,52
+6210000004     ALQUILER PASEO ARAGON 74B                                  0,00       7.200,00         0,00             7.200,00
+6230           SERVICIOS DE PROFESIONALES INDEPENDIENTES                  0,00       6.496,84         0,00             6.496,84
+6230000000     SERVICIOS DE PROFESIONALES INDEPENDIENTES                  0,00       2.225,27         0,00             2.225,27
+6230000001     SERVICIOS PROFESIONALES                                    0,00          43,57         0,00                43,57
+6230000003     FISCAL                                                     0,00       4.228,00         0,00             4.228,00
+6240           TRANSPORTES                                                0,00       3.208,01         0,00             3.208,01
+6240000000     TRANSPORTES                                                0,00         282,01         0,00               282,01
+6240000001     MENSAJERIA                                                 0,00       2.926,00         0,00             2.926,00
+6280           SUMINISTROS                                                0,00       4.512,06         0,00             4.512,06
+6280000000     SUMINISTROS                                                0,00         995,28         0,00               995,28
+6280000001     TELEFONO                                                   0,00       1.714,31         0,00             1.714,31
+6280000003     LUZ                                                        0,00       1.802,47         0,00             1.802,47
+6290           OTROS SERVICIOS                                            0,00         622,05         0,00               622,05
+6290000000     OTROS SERVICIOS                                            0,00         547,07         0,00               547,07
+6290000001     OTROS GASTOS                                               0,00          74,98         0,00                74,98
+6400           SUELDOS Y SALARIOS                                         0,00      26.451,99         0,00            26.451,99
+6400000000     SUELDOS Y SALARIOS                                         0,00      26.451,99         0,00            26.451,99
+6420           SEGURIDAD SOCIAL A CARGO DE LA EMPRESA                     0,00       2.301,99         0,00             2.301,99
+6420000000     SEGURIDAD SOCIAL A CARGO DE LA EMPRESA                     0,00       2.301,99         0,00             2.301,99
+6810           AMORTIZACIÓN DEL INMOVILIZADO MATERIAL                     0,00       2.069,76         0,00             2.069,76
+6810000000     AMORTIZACIÓN DEL INMOVILIZADO MATERIAL                     0,00         278,01         0,00               278,01
+6810000001     AMORT.INMOV.MATERIAL                                       0,00       1.791,75         0,00             1.791,75
+7000           VENTAS DE MERCADERÍAS                                      0,00           0,00   163.480,62          -163.480,62
+7000000000     VENTAS DE MERCADERÍAS                                      0,00           0,00    69.583,20           -69.583,20
+7000000001     INGRESOS                                                   0,00           0,00    93.897,42           -93.897,42
+7080           DEVOLUCIONES DE VENTAS DE MERCADERÍAS                      0,00         480,00       251,70               228,30
+7080000000     DEVOLUCIONES DE VENTAS DE MERCADERÍAS                      0,00         480,00       251,70               228,30
+
+                                    SUMA TOTAL.......                      0,00    589.800,18   589.800,18                0,00
+
+
+
+
+BALANCE DE SUMAS Y SALDOS                                                                                            Página 4
+
