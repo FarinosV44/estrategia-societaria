@@ -1,0 +1,45 @@
+                                                        CUENTA DE PÉRDIDAS Y GANANCIAS
+EMPRESA: MAKE-OPTIC, SL                                                               FECHA: 20/08/2026
+Condición: Cuenta de Pérdidas y Ganancias
+           En el Periodo del 01/01/2025 al 31/12/2025
+
+
+
+
+                                CUENTA DE PÉRDIDAS Y GANANCIAS
+
+   A) OPERACIONES CONTINUADAS                                                                 34.922,84
+          1. IMPORTE NETO DE LA CIFRA DE NEGOCIOS                                            163.252,32
+              a) VENTAS                                                                      163.252,32
+                    700. VENTAS DE MERCADERÍAS                                               163.480,62
+                    708. DEVOLUCIONES DE VENTAS Y OPERACIONES SIMILARES                         -228,30
+          4. APROVISIONAMIENTOS                                                              -53.698,82
+              a) CONSUMO DE MERCADERÍAS                                                      -53.698,82
+                    600. COMPRAS DE MERCADERÍAS                                              -57.387,53
+                    6080. DEVOLUCIONES DE COMPRAS DE MERCADERÍAS                               3.688,71
+          6. GASTOS DE PERSONAL                                                              -28.753,98
+              a) SUELDOS, SALARIOS Y ASIMILADOS                                              -26.451,99
+                    640. SUELDOS Y SALARIOS                                                  -26.451,99
+              b) CARGAS SOCIALES                                                              -2.301,99
+                    642. SEGURIDAD SOCIAL A CARGO DE LA EMPRESA                               -2.301,99
+          7. OTROS GASTOS DE EXPLOTACIÓN                                                     -43.806,92
+              a) SERVICIOS EXTERIORES                                                        -43.806,92
+                    621. ARRENDAMIENTOS Y CÁNONES                                            -28.967,96
+                    623. SERVICIOS DE PROFESIONALES INDEPENDIENTES                            -6.496,84
+                    624. TRANSPORTES                                                          -3.208,01
+                    628. SUMINISTROS                                                          -4.512,06
+                    629. OTROS SERVICIOS                                                        -622,05
+          8. AMORTIZACIÓN DEL INMOVILIZADO                                                    -2.069,76
+                    681. AMORTIZACIÓN DEL INMOVILIZADO MATERIAL                               -2.069,76
+     A.1) RESULTADO DE EXPLOTACIÓN                                                            34.922,84
+     A.3) RESULTADO ANTES DE IMPUESTOS                                                        34.922,84
+     A.4) RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS                       34.922,84
+     A.5) RESULTADO DEL EJERCICIO                                                             34.922,84
+
+                                                                          TOTAL PyG       34.922,84
+
+
+
+
+CUENTA DE PÉRDIDAS Y GANANCIAS                                                                Página 1
+
