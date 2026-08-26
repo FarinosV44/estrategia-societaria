@@ -1,0 +1,143 @@
+                                                                 BALANCE DE SUMAS Y SALDOS
+EMPRESA: VISUALENS LABS, SL                                                                               FECHA: 20/08/2026
+Condición: Desde la SUBCUENTA 1000000000 a la 7999999999
+           En el PERIODO del 01/01/2025 al 31/12/2025
+
+
+Subcuenta      Nombre de la Subcuenta                             Saldo Inicial       Debe       Haber                Saldo
+
+1000           CAPITAL SOCIAL                                       -3.000,00          0,00        0,00            -3.000,00
+1000000001     CAPITAL SOCIAL                                       -3.000,00          0,00        0,00            -3.000,00
+1120           RESERVA LEGAL                                          -750,00          0,00        0,00              -750,00
+1120000000     RESERVA LEGAL                                          -750,00          0,00        0,00              -750,00
+1146           RESERVAS DE REVALORIZACIÓN                           -9.343,31          0,00        0,00            -9.343,31
+1146000001     RESERVA CAPITALIZACION 2022                          -1.691,14          0,00        0,00            -1.691,14
+1146000002     RESERVA NIVELACION 2022                              -2.890,36          0,00        0,00            -2.890,36
+1146000003     RESERVA CAPITALIZACION 2023                          -1.928,08          0,00        0,00            -1.928,08
+1146000004     RESERVA NIVELACION 2023                              -2.833,73          0,00        0,00            -2.833,73
+1200           REMANENTE                                           -56.581,20          0,00        0,00           -56.581,20
+1200000001     REMANENTE EJER 2020                                    -956,01          0,00        0,00              -956,01
+1200000002     REMANENTE EJER 2021                                 -16.911,38          0,00        0,00           -16.911,38
+1200000003     REMANENTE EJER 2022                                 -19.280,86          0,00        0,00           -19.280,86
+1200000004     REMANENTE EJER 2023                                 -19.432,95          0,00        0,00           -19.432,95
+1290           RESULTADO DEL EJERCICIO                             -13.257,48          0,00        0,00           -13.257,48
+1290000000     RESULTADO DEL EJERCICIO                             -13.257,48          0,00        0,00           -13.257,48
+1700           DEUDAS A LARGO PLAZO CON ENTIDADES DE CRÉDITO       -14.022,38          0,00        0,00           -14.022,38
+1700000001     PTO SABADELL                                        -14.022,38          0,00        0,00           -14.022,38
+3000           MERCADERÍAS A                                         2.890,00          0,00        0,00             2.890,00
+3000000000     MERCADERÍAS A                                         2.890,00          0,00        0,00             2.890,00
+4000           PROVEEDORES (EUROS)                                 -37.807,78      2.058,65   19.785,46           -55.534,59
+4000000001     DANYANG CHANGXING OPTICAL GLASSES FACTORY              -186,00          0,00        0,00              -186,00
+4000000016     VISION RX LABEUROPE                                 -37.281,22          0,00        0,00           -37.281,22
+4000000022     SOLID TREND, SL                                        -340,56          0,00        0,00              -340,56
+4000000025     COCO TIME, SL                                             0,00      1.598,85    1.598,85                 0,00
+4000000026     EURO SUNGLASS, SL                                         0,00          0,00   17.086,85           -17.086,85
+4000000027     DOMINGUEZ LOPEZ, ELENA                                    0,00          0,00      639,96              -639,96
+4000000028     SUNSHINE TIME, S.L.                                       0,00        459,80      459,80                 0,00
+4100           ACREEDORES POR PRESTACIONES DE SERVICIOS (EUROS        -189,30        214,06      214,06              -189,30
+4100000002     REGISTRO MERCANTIL DE VALENCIA                            0,00         14,70       14,70                 0,00
+4100000010     FNMT                                                      0,00         29,04       29,04                 0,00
+4100000015     UPS                                                     -33,03          0,00        0,00               -33,03
+4100000030     HOLALUZ                                                  -0,78        170,32      170,32                -0,78
+4100000036     VALFIRE                                                -155,49          0,00        0,00              -155,49
+4300           CLIENTES (EUROS)                                    100.593,35     25.249,03    8.403,15           117.439,23
+4300000001     MAKE OPTIC, SLL                                      61.412,99          0,00        0,00            61.412,99
+4300000005     OPTICA LA POBLA SL                                      205,70          0,00        0,00               205,70
+4300000019     AMPARO HURTADO OPTICOS, S.L                              84,03      1.107,59        0,00             1.191,62
+4300000020     RAUL TENA PERALES                                       437,54          0,00        0,00               437,54
+4300000021     SOLID TREND SL                                        1.237,50          0,00        0,00             1.237,50
+4300000025     ARENA OPTICA, SL                                      2.615,41          0,00        0,00             2.615,41
+4300000029     BERNABEU MAGDALENA, PASCUAL                            -564,82          0,00        0,00              -564,82
+4300000031     BOTELLA DIAZ, JUAQUIN CARLOS                          1.984,18          0,00        0,00             1.984,18
+4300000032     MESENGUER MUÑOZ, MARIA JSOE                           3.481,40          0,00        0,00             3.481,40
+4300000036     SANCHIS Y CHAMEDO, SL                                 8.198,47          0,00        0,00             8.198,47
+4300000038     BORJA CONEJERO RIPOLL                                 1.123,33          0,00        0,00             1.123,33
+4300000039     OPTICA SANITARIA                                        887,65          0,00        0,00               887,65
+4300000041     BEBABU PRODUCTOS SOSTENIBLES, SL                      2.934,25          0,00        0,00             2.934,25
+4300000043     VEO VEO QUE VES SXXI, SL                                 18,03          0,00        0,00                18,03
+4300000047     ANTONIO BARBERA CASTAÑER                              7.279,78          0,00        0,00             7.279,78
+4300000049     M ª GABRIELA SIERRA SÁNCHEZ                              68,13          0,00        0,00                68,13
+4300000050     BLUE BLUE                                             2.178,00          0,00        0,00             2.178,00
+4300000051     DEFECTO FABRI 99999                                     921,20          0,00        0,00               921,20
+4300000052     MUNERA TAMARIT, JUAN                                    484,12          0,00        0,00               484,12
+4300000053     GOMEZ SANDEZ, VICTOR                                    545,17          0,00        0,00               545,17
+4300000055     COSETION PLAT FORM, SL                                1.439,90          0,00        0,00             1.439,90
+4300000057     PEIRO CONEJOS, JULIO                                    110,34          0,00        0,00               110,34
+4300000058     MARIA AVIÑO                                           2.208,25          0,00        0,00             2.208,25
+4300000059     CONSENTIO PLATFORM SL                                   822,80          0,00        0,00               822,80
+4300000060     ICARE GRUP                                              480,00          0,00        0,00               480,00
+4300000066     OPTICA FAIDIEL, S.L.                                      0,00        877,80      877,80                 0,00
+4300000067     OPTICA POLINYA SCP                                        0,00        760,76      760,76                 0,00
+4300000068     CAPED DIGITAL, S.L.                                       0,00      1.724,80    1.724,80                 0,00
+4300000069     OPTICA BIENCLARO, S.L.                                    0,00        207,90      207,90                 0,00
+4300000070     OPTICA FRAINDIS, S.L.                                     0,00        308,00      308,00                 0,00
+4300000071     TECNOLUX                                                  0,00        773,30        0,00               773,30
+4300000072     MARTINEZ MARTINEZ                                         0,00          4,34        0,00                 4,34
+4300000073     SOAVICESA                                                 0,00        702,24        0,00               702,24
+4300009999     GRUPO DE VISION LLAMUSI S.L.                              0,00     18.782,30    4.523,89            14.258,41
+4650           REMUNERACIONES PENDIENTES DE PAGO                   -10.963,84      1.560,64    1.560,64           -10.963,84
+4650000000     REMUNERACIONES PENDIENTES DE PAGO                   -10.963,84      1.560,64    1.560,64           -10.963,84
+4700           HACIENDA PÚBLICA, DEUDORA POR IVA                         0,00         23,66        0,00                23,66
+4700000000     HACIENDA PÚBLICA, DEUDORA POR IVA                         0,00         23,66        0,00                23,66
+4720           HACIENDA PÚBLICA, IVA SOPORTADO                           0,00      1.913,00    1.376,82               536,18
+4720000010     IVA SOPORTADO 10%                                         0,00      1.714,18    1.265,75               448,43
+
+                                SUMA PARCIAL.......                -42.431,94     30.820,22   31.229,06          -42.840,78
+
+
+
+BALANCE DE SUMAS Y SALDOS                                                                                         Página 1
+                                                                  BALANCE DE SUMAS Y SALDOS
+EMPRESA: VISUALENS LABS, SL                                                                                FECHA: 20/08/2026
+Condición: Desde la SUBCUENTA 1000000000 a la 7999999999
+           En el PERIODO del 01/01/2025 al 31/12/2025
+
+
+Subcuenta      Nombre de la Subcuenta                              Saldo Inicial       Debe       Haber                Saldo
+
+                              SUMA ANTERIOR.......                  -42.431,94     30.820,22   31.229,06          -42.840,78
+
+4720000021     IVA SOPORTADO 21%                                           0,00       198,82      111,07                87,75
+4730           HACIENDA PÚBLICA, RETENCIONES Y PAGOS A CUENTA          3.282,30         0,00        0,00             3.282,30
+4730000000     HACIENDA PÚBLICA, RETENCIONES Y PAGOS A CUENTA          3.282,30         0,00        0,00             3.282,30
+4750           HACIENDA PÚBLICA, ACREEDORA POR IVA                    -1.825,61         0,00        0,00            -1.825,61
+4750000000     HACIENDA PÚBLICA, ACREEDORA POR IVA                    -1.526,70         0,00        0,00            -1.526,70
+4750000006     AZPO IVA 3T 2024                                         -298,91         0,00        0,00              -298,91
+4751           HACIENDA PÚBLICA, ACREEDORA POR RETENCIONES PR         -2.623,84         0,00       41,44            -2.665,28
+4751000000     HACIENDA PÚBLICA, ACREEDORA POR RETENCIONES PRA          -229,84         0,00       41,44              -271,28
+4751000002     I.R.P.F ALQUILER                                       -2.394,00         0,00        0,00            -2.394,00
+4752           HACIENDA PÚBLICA, ACREEDORA POR IMPUESTO SOBR         -12.513,76         0,00        0,00           -12.513,76
+4752000000     HACIENDA PÚBLICA, ACREEDORA POR IMPUESTO SOBRE         -3.960,02         0,00        0,00            -3.960,02
+4752000002     APZO IMP SOC 2021                                      -1.447,09         0,00        0,00            -1.447,09
+4752000003     APZO IMP SOCIEDADES 2022                               -5.115,01         0,00        0,00            -5.115,01
+4752000004     APZO IMP SOCIEDADES 2023                               -1.991,64         0,00        0,00            -1.991,64
+4770           HACIENDA PÚBLICA, IVA REPERCUTIDO                           0,00     1.784,25    2.372,18              -587,93
+4770000010     IVA DEVENGADO 10%                                           0,00     1.699,81    2.287,69              -587,88
+4770000144     IVA REC EQUI                                                0,00        84,44       84,49                -0,05
+4790           PASIVOS POR DIFERENCIAS TEMPORARIAS IMPONIBLES             80,96         0,00        0,00                80,96
+4790000000     PASIVOS POR DIFERENCIAS TEMPORARIAS IMPONIBLES             80,96         0,00        0,00                80,96
+5700           CAJA, EUROS                                                 0,00         0,00      199,36              -199,36
+5700000003     DIARIO AUX TESORERIA                                        0,00         0,00      199,36              -199,36
+5720           BANCOS E INSTITUCIONES DE CRÉDITO C/C VISTA, EUR       56.031,89     3.879,26    3.633,99            56.277,16
+5720000002     BANCO SABADELL CTA 1831885                              2.472,32         0,00        0,00             2.472,32
+5720000099     DIARIO AUX BANCO                                       53.559,57     3.879,26    3.633,99            53.804,84
+6000           COMPRAS DE MERCADERÍAS                                      0,00    17.895,89        0,00            17.895,89
+6000000000     COMPRAS DE MERCADERÍAS                                      0,00    17.895,89        0,00            17.895,89
+6230           SERVICIOS DE PROFESIONALES INDEPENDIENTES                   0,00        37,87        0,00                37,87
+6230000000     SERVICIOS DE PROFESIONALES INDEPENDIENTES                   0,00        37,87        0,00                37,87
+6280           SUMINISTROS                                                 0,00       154,84        0,00               154,84
+6280000000     SUMINISTROS                                                 0,00       154,84        0,00               154,84
+6400           SUELDOS Y SALARIOS                                          0,00     1.600,00        0,00             1.600,00
+6400000000     SUELDOS Y SALARIOS                                          0,00     1.600,00        0,00             1.600,00
+7000           VENTAS DE MERCADERÍAS                                       0,00         0,00   22.876,85           -22.876,85
+7000000000     VENTAS DE MERCADERÍAS                                       0,00         0,00   22.876,85           -22.876,85
+7080           DEVOLUCIONES DE VENTAS DE MERCADERÍAS                       0,00     4.092,80        0,00             4.092,80
+7080000000     DEVOLUCIONES DE VENTAS DE MERCADERÍAS                       0,00     4.092,80        0,00             4.092,80
+
+                                    SUMA TOTAL.......                      0,00    60.463,95   60.463,95                0,00
+
+
+
+
+BALANCE DE SUMAS Y SALDOS                                                                                          Página 2
+
