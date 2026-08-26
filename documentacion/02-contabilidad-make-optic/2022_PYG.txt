@@ -1,0 +1,58 @@
+                                                        CUENTA DE PÉRDIDAS Y GANANCIAS
+EMPRESA: MAKE-OPTIC, SL                                                               FECHA: 20/08/2026
+Condición: Cuenta de Pérdidas y Ganancias
+           En el Periodo del 01/01/2022 al 31/12/2022
+
+
+
+
+                                CUENTA DE PÉRDIDAS Y GANANCIAS
+
+   A) OPERACIONES CONTINUADAS                                                                 23.201,21
+          1. IMPORTE NETO DE LA CIFRA DE NEGOCIOS                                            398.287,18
+              a) VENTAS                                                                      398.282,88
+                    700. VENTAS DE MERCADERÍAS                                               398.637,31
+                    708. DEVOLUCIONES DE VENTAS Y OPERACIONES SIMILARES                         -354,43
+              b) PRESTACIONES DE SERVICIOS                                                         4,30
+                    705. PRESTACIONES DE SERVICIOS                                                 4,30
+          4. APROVISIONAMIENTOS                                                             -122.938,53
+              a) CONSUMO DE MERCADERÍAS                                                     -122.938,53
+                    600. COMPRAS DE MERCADERÍAS                                             -131.601,17
+                    6080. DEVOLUCIONES DE COMPRAS DE MERCADERÍAS                               3.728,94
+                    6090. "RAPPELS" POR COMPRAS DE MERCADERÍAS                                 2.472,70
+                    610. VARIACIÓN DE EXISTENCIAS DE MERCADERÍAS                               2.461,00
+          6. GASTOS DE PERSONAL                                                             -158.598,60
+              a) SUELDOS, SALARIOS Y ASIMILADOS                                             -134.737,44
+                    640. SUELDOS Y SALARIOS                                                 -133.701,63
+                    641. INDEMNIZACIONES                                                      -1.035,81
+              b) CARGAS SOCIALES                                                             -23.861,16
+                    642. SEGURIDAD SOCIAL A CARGO DE LA EMPRESA                              -23.861,16
+          7. OTROS GASTOS DE EXPLOTACIÓN                                                     -82.364,62
+              a) SERVICIOS EXTERIORES                                                        -82.364,62
+                    621. ARRENDAMIENTOS Y CÁNONES                                            -40.151,55
+                    623. SERVICIOS DE PROFESIONALES INDEPENDIENTES                            -5.851,89
+                    625. PRIMAS DE SEGUROS                                                    -1.346,08
+                    626. SERVICIOS BANCARIOS Y SIMILARES                                         -40,00
+                    627. PUBLICIDAD, PROPAGANDA Y RELACIONES PÚBLICAS                        -11.980,00
+                    628. SUMINISTROS                                                          -5.695,88
+                    629. OTROS SERVICIOS                                                     -17.299,22
+          8. AMORTIZACIÓN DEL INMOVILIZADO                                                    -3.141,75
+                    681. AMORTIZACIÓN DEL INMOVILIZADO MATERIAL                               -3.141,75
+     A.1) RESULTADO DE EXPLOTACIÓN                                                            31.243,68
+          13. GASTOS FINANCIEROS                                                                -308,74
+              b) POR DEUDAS CON TERCEROS                                                        -308,74
+                    669. OTROS GASTOS FINANCIEROS                                               -308,74
+     A.2) RESULTADO FINANCIERO                                                                  -308,74
+     A.3) RESULTADO ANTES DE IMPUESTOS                                                        30.934,94
+          17. IMPUESTOS SOBRE BENEFICIOS                                                      -7.733,73
+                    6300. IMPUESTO CORRIENTE                                                  -7.733,73
+     A.4) RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS                       23.201,21
+     A.5) RESULTADO DEL EJERCICIO                                                             23.201,21
+
+                                                                          TOTAL PyG       23.201,21
+
+
+
+
+CUENTA DE PÉRDIDAS Y GANANCIAS                                                                Página 1
+
