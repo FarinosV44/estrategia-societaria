@@ -1,0 +1,863 @@
+#¡ !#PRC0101#
+
+
+
+
+                                                                                                             1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-1/11-10
+                PÓLIZA DE PRÉSTAMO MERCANTIL CON AMORTIZACIONES CONSTANTES
+                                                                                  Núm. 807801498880
+                De una parte Banco de Sabadell, S.A., con domicilio social en Alicante, Av. Óscar Esplá,
+                37, inscrito en el Registro Mercantil de Alicante, Tomo 4070, Folio 1, Hoja A-156980 con
+                NIF A08000143 y dirección de correo electrónico: info@bancsabadell.com (a partir de
+                ahora, el Banco), representado suficientemente por el o los apoderados que suscriben el
+                presente contrato, y de otra parte, el o los prestatarios y el o los Fiadores, con la
+                intervención del notario expresamente requerido para la formalización del presente
+                contrato, y reconociéndose entre sí las partes, la capacidad legal para contratar y
+                obligarse, han convenido la formalización del presente contrato de préstamo de acuerdo
+                con las siguientes estipulaciones:
+
+                El banco es una entidad de crédito sujeta a la supervisión del Banco de España e inscrita
+                en el Registro administrativo especial con el número 0081. La sede del Banco de España
+                se encuentra en Madrid, en la calle Alcalá, 48, 28014 Madrid. La dirección de Internet es
+                www.bde.es.
+
+                Estipulaciones particulares
+                Lugar y fecha de formalización
+                VALENCIA,
+
+                Prestatario o Prestatarios
+                NIF                          Nombre del prestatario
+                B40535304                     VISUALENS LABS S.L
+                Dirección ARAGO 76 ALBORAYA 46120
+                Representado por Sr./Sra AURELIO RAMON MORALES MARTINEZ                 NIF 44500744E
+
+                Capital
+                30.000,00 EUR
+                Capital (en letras)
+                EUROS TREINTA MIL
+                Nº Cuenta abono préstamo (IBAN)
+                ES29 0081 0297 1100 0183 1885
+   PRC0101E
+
+
+
+
+                                                                                                  Página 1
+#¡ !#PRC0101#
+
+
+
+
+                         Interés nominal anual                 TAE
+                         6,3500 %                              6,6411 %
+                         Periodos carencia             Periodos amortización             Importe cuotas
+                         -----------                   60 MESES                          584,88 EUR
+                         Día de pago
+                         Final de mes
+                         Comisión de apertura     Comisión de estudio                Comisión cancelación anticipada
+                         75,00 EUR                -------- EUR                       3,0000 %
+                         Gastos de reclamación de pagos no atendidos
+                         39,00 EUR
+                         (Gestión telefónica interna por parte del Banco)
+                         Importe total intereses                                     Importe total capital
+                         5.092,74 EUR                                                30.000,00 EUR
+                         (excluida la fracción inicial)
+                         Importe total pagos
+                         35.167,74 EUR
+                         (excluida la fracción inicial de intereses)
+
+
+
+
+                                                                                                                                 1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-2/11-10
+                         Fiador o Fiadores
+                         NIF                Nombre del Fiador
+                         73574365X          Sr./Sra. JOSE HERNANDEZ FERRER
+                         Dirección VALLE DE ANDORRA 53 BUÑOL 46360 VALENCIA
+                         NIF                Nombre del Fiador
+                         44500744E          Sr./Sra. AURELIO RAMON MORALES MARTINEZ
+                         Dirección MESTRA SALVADORA MARTINEZ 3 -8 -1 -4 EL PUIG DE SANTA
+                                   MARIA 46540 VALENCIA
+                         NIF                Nombre del Fiador
+                         24391034V          Sr./Sra. LUIS GARCIA FIGUERES
+                         Dirección DE BLASCO IBAÑEZ 91 -1 -1 VALENCIA 46022 VALENCIA
+
+                         Destino
+                         Empresarial
+
+                         Estipulaciones generales
+
+                         1ª. Objeto del contrato
+                         a) El Banco entrega al/a los Prestatario/s, la cantidad indicada en el apartado de Capital, en
+                         concepto de préstamo mercantil, que recibe/n de conformidad, mediante el abono por el Banco de
+                         dicho importe a la cuenta designada como Cuenta abono préstamo, que tiene/n abierta en dicho
+                         Banco, el cual se destinará a operaciones mercantiles.
+                         b) El/Los Prestatario/s se obliga/n solidariamente entre sí y con el/los Fiador/es solidario/s si los
+                         hubiere, a reembolsar al Banco el capital del presente préstamo, así como los intereses, las
+                         comisiones, los impuestos y los gastos que se devenguen o graven dicha operación hasta su total
+                         pago, incluso los de carácter judicial o extrajudicial que se causen.
+
+                         2ª. Comisiones y gastos
+                         El presente préstamo devengará, por una sola vez, a cargo del/de los Prestatario/s y a favor del
+                         Banco, la comisión de apertura y la comisión de estudio establecidas en los apartados
+   PRC01007E -VII-2010
+
+
+
+
+                         correspondientes de las estipulaciones particulares, que se adeudarán en la cuenta del/de los
+                         Prestatario/s referida en la estipulación 1ª anterior en el momento de la formalización de este
+                         contrato.
+   PRC0101E
+
+
+
+
+                                                                                                                      Página 2
+#¡ !#PRC0101#
+
+
+
+
+                         Asimismo, en caso de amortización anticipada, total o parcial, del préstamo, se devengará la
+                         comisión de cancelación anticipada establecida en las estipulaciones particulares del presente
+                         contrato calculada sobre el importe del capital que se amortice anticipadamente, que se adeudará
+                         en la cuenta del/de los Prestatario/s.
+                         El Banco queda facultado para cobrar la oportuna comisión por la entrega de segunda o sucesivas
+                         copias en papel de este contrato al/a los Prestatario/s o al/a los Fiador/es (el importe de la cual
+                         se les indicará en el momento de su solicitud), sin perjuicio del derecho que les asiste de poder
+                         solicitarlas directamente al notario autorizante siendo a su cargo el coste de expedición de dichas
+                         copias.
+                         El Banco podrá percibir los gastos de reclamación personalizada de pagos no atendidos por la
+                         preparación, tramitación y realización de la reclamación de los importes derivados de las
+                         cuotas/amortizaciones vencidas e impagadas mediante el canal de gestión telefónica (interna por
+                         parte del Banco o externa). Podrá percibir dicha compensación acorde con los costes
+                         efectivamente soportados por el importe que se especifique en las condiciones particulares del
+                         presente contrato, que, para el caso de Prestatario/s persona/s física/s, solo se percibirá en caso
+                         de demora en el pago de una cuota/amortización por un tiempo igual o superior a los tres (3) días
+                         hábiles. Se establece como umbral mínimo exento para el cobro de estos gastos la cantidad de 29
+                         euros como importe de la cuota/amortización impagada objeto de reclamación. No se podrá
+                         producir reiteración en el cobro del gasto por parte del Banco para una misma cuota/amortización
+                         impagada, ni siquiera cuando, en caso de impago en el tiempo, esta se prolongue en sucesivas
+                         reclamaciones. Por tanto, los gastos se percibirán por una sola vez para cada cuota/amortización
+                         impagada objeto de gestión de reclamación y no se repetirán por la reclamación de ese mismo
+
+
+
+
+                                                                                                                                 1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-3/11-10
+                         pago, ni tampoco se penalizará esta cuota/amortización impagada mediante la previsión de otros
+                         gastos adyacentes. Las comunicaciones serán en todo caso respetuosas con la privacidad de/los
+                         Prestatario/s, proporcionales a los deberes de información y no resultarán excesivas.
+
+                         3ª. Intereses
+                         El capital del préstamo devengará desde el momento de su entrega el interés nominal anual
+                         expresado en el apartado correspondiente.
+
+                         4ª. Fórmula financiera utilizada para el cálculo de intereses del préstamo
+                         Los intereses se calcularán aplicando la siguiente fórmula:
+
+                          Cxdxr
+                         -------------------- ; siendo,
+                         360 x 100
+
+                         C = el capital pendiente del préstamo al inicio del período de liquidación.
+                         d = el número de días comerciales de que consta el período objeto de la liquidación, considerando
+                         los años de 360 días, los meses de 30 días y los períodos inferiores a un mes, restando de 30 días
+                         los días transcurridos del mes.
+                         r = el tipo de interés nominal anual en tanto por ciento.
+
+                         5ª. Tasa anual equivalente
+                         A efectos informativos, la Tasa anual equivalente (TAE), es la consignada en el apartado
+                         correspondiente y está calculada conforme a lo establecido en la Norma decimotercera de la
+                         Circular 5/2012 de 27 de junio, del Banco de España, publicada en el B.O.E. nº 161 de 6 de julio
+                         de 2012, y sus modificaciones o por las disposiciones en cada momento vigentes.
+                         Para el cálculo de la T.A.E. se consideran incluidos, además del capital de la operación, los
+                         intereses calculados con arreglo a las estipulaciones de la presente póliza, la comisión de apertura
+                         y la comisión de estudio. No se incluyen en el cálculo de la T.A.E. los gastos complementarios o
+                         suplidos (corretajes a favor de terceros, timbres, impuestos, etc.) ni las comisiones por cancelación
+                         anticipada.
+
+                         6ª. Duración y amortizaciones
+                         El préstamo tendrá una duración y se amortizará de acuerdo con lo establecido en esta
+                         estipulación, entendiéndose por período natural, a los efectos de lo previsto en esta póliza, el de
+                         un mes natural, un trimestre natural, un semestre natural o un año natural, según sea
+                         respectivamente de meses, trimestres, semestres o años la periodicidad de amortización
+   PRC01007E -VII-2010
+
+
+
+
+                         establecida en el apartado "Períodos de amortización".
+                         1. Fracción inicial de interés. Desde el día de hoy hasta el penúltimo del presente período natural,
+                         el capital prestado devengará únicamente intereses anuales a razón del tipo pactado pagaderos,
+                         por vencido, el último día de dicho período o, si éste fuese festivo, el anterior día hábil.
+   PRC0101E
+
+
+
+
+                                                                                                                      Página 3
+#¡ !#PRC0101#
+
+
+
+
+                         2. Período de carencia. El presente préstamo tendrá el período de carencia de amortización de
+                         capital establecido en el apartado correspondiente, que se iniciará el último día del período natural
+                         en que se ha formalizado la póliza, durante cuyo período únicamente se devengarán intereses
+                         anuales a razón del tipo establecido, debiendo ser satisfechos el último día de cada período
+                         natural vencido al que correspondan, o el anterior día hábil si fuere festivo.
+                         3. Amortizaciones. La amortización del préstamo se efectuará por los períodos naturales vencidos
+                         sucesivos señalados en el apartado "Períodos de amortización", mediante el pago de las cuotas
+                         detalladas asimismo en su correspondiente apartado, comprensivas de capital e intereses,
+                         pagaderas el último día de cada período natural, o el anterior si fuere festivo.
+                         La primera de dichas cuotas deberá satisfacerse el último día del período natural siguiente al de
+                         formalización de esta póliza o al de finalización del período de carencia, si lo hubiere.
+
+                         7ª. Lugar de pago
+                         El pago de los intereses, las comisiones y las amortizaciones establecidas en la presente póliza, se
+                         efectuará por el/los Prestatario/s en las Oficinas del Banco de la plaza donde se formaliza el
+                         presente contrato, autorizando expresamente al Banco para percibir cualquier importe debido, con
+                         cargo a cualquier cuenta, libreta o depósito de efectivo del que sea titular cualesquiera de los
+                         Prestatarios en dicho Banco.
+                         La aplicación de los importes percibidos para el pago del préstamo se efectuará por el siguiente
+                         orden: intereses de demora, intereses ordinarios, gastos de reclamación de pagos no atendidos,
+                         gastos y, en último lugar, la amortización del capital.
+                         En los apartados correspondientes de las estipulaciones particulares se hace constar,
+
+
+
+
+                                                                                                                                 1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-4/11-10
+                         separadamente, la suma total de intereses y de capital a satisfacer, así como la suma total de
+                         pagos previstos por capital, intereses y comisiones, todo ello correspondiente al primer periodo del
+                         tipo de interés.
+
+                         8ª. Amortización anticipada
+                         No obstante el sistema de amortización pactado, el préstamo concertado podrá ser objeto de
+                         amortización anticipada si así conviniera al/a los Prestatario/s. La amortización anticipada podrá
+                         ser total o parcial y se aplicará en la forma establecida en la estipulación anterior. El pago del
+                         principal restante y los correspondientes intereses podrá realizarse, según convenga al/a los
+                         Prestatario/s, manteniendo bien los plazos previstos en este contrato con la correspondiente
+                         modificación de las cuotas de amortización, o bien el importe de las cuotas en aquel momento
+                         vigentes con la correspondiente disminución del plazo o término de duración del préstamo.
+                         La amortización anticipada, ya sea total o parcial, efectuada por el/los Prestatario/s al amparo de
+                         lo establecido en la presente estipulación, devengará a favor del Banco la comisión de cancelación
+                         anticipada establecida en el apartado correspondiente sobre el capital amortizado, que deberá ser
+                         satisfecha en el momento de efectuar dicha amortización anticipada, autorizando al Banco para su
+                         cargo en la cuenta del/de los Prestatario/s referida en la estipulación 1ª.
+
+                         9ª. Intereses de demora
+                         Las obligaciones dinerarias del/de los Prestatario/s dimanantes de este contrato, vencidas y no
+                         satisfechas, devengarán desde su vencimiento un interés anual de demora al tipo del veintisiete
+                         por ciento anual. A tal efecto, de conformidad con lo previsto en el artículo 317 del Código de
+                         Comercio, los intereses ordinarios vencidos y no pagados se entenderán capitalizados.
+
+                         10ª. Vencimiento anticipado
+                         1. No obstante el plazo de duración establecido, podrá el Banco dar por vencido de pleno derecho
+                         el préstamo y exigir en su totalidad las obligaciones de pago que tengan contraídas el/los
+                         Prestatarios/s y el/los Fiador/es de concurrir conjuntamente los siguientes requisitos:
+                         a) Que el/los prestatario/s se encuentre/n en mora en el pago de una parte del capital o de los
+                         intereses.
+                         b) Que la cuantía de las cuotas vencidas y no satisfechas corresponda a un mínimo de 3 cuotas
+                         mensuales o por un plazo equivalente, y que equivalga al menos:
+                               ZAl 3% del capital concedido del préstamo, si la mora se produce durante la primera mitad
+                                 del plazo de duración del préstamo.
+                               ZAl 7% del capital concedido del préstamo, si el impago se produce durante la segunda
+                                 mitad de dicho plazo de duración del préstamo.
+                         Se considerarán cumplidos estos requisitos cuando las cuotas vencidas y no satisfechas
+   PRC01007E -VII-2010
+
+
+
+
+                         equivalgan a un número de 12 o 15 plazos mensuales en la primera o segunda mitad de duración
+                         del préstamo, respectivamente, o cuando el número de cuotas impagadas suponga un plazo al
+                         menos equivalente a 12 o 15 meses, según el caso.
+   PRC0101E
+
+
+
+
+                                                                                                                      Página 4
+#¡ !#PRC0101#
+
+
+
+
+                         c) En cualquiera de estos supuestos, el banco deberá haber requerido el pago al/a los
+                         prestatario/s, concediéndole/s un plazo de al menos un (1) mes para su cumplimiento,
+                         advirtiéndole/s de que, de no atenderlo, le/s reclamará el reembolso total adeudado del préstamo.
+                         2. También podrá el banco declarar vencido anticipadamente el préstamo y reclamar la totalidad
+                         de la deuda existente de concurrir cualquiera de las siguientes causas:
+                         a) Si incumpliera el pago de los intereses o dejara de satisfacer alguna de las cuotas convenidas
+                         en el presente contrato.
+                         b) Cuando incumpliera cualquier otra de las obligaciones contraídas por el presente contrato,
+                         exceptuando las accesorias.
+                         c) Para el caso de que se inste en su contra procedimiento administrativo, judicial o extrajudicial en
+                         reclamación de cantidad.
+                         d) Si incumple las obligaciones contraídas o que contraiga frente al Banco o frente a terceros, o
+                         sea presumible una variación en su situación económica, o por impago de dos o más efectos
+                         cambiarios a su cargo, o conste incumplimiento de sus obligaciones dinerarias en prestadores de
+                         servicios sobre solvencia patrimonial o crédito, salvo que otorgue las garantías suficientes
+                         conforme al apartado h) siguiente.
+                         e) Si falleciera, o en caso de ser persona jurídica, si variara en forma sustancial la naturaleza de su
+                         negocio, cesara en sus actividades, se transformara, se disolviera, se liquidara, se escindiera, se
+                         segregara o efectuara aportación no dineraria de rama de actividad, se fusionara o fuera absorbida
+                         por otra entidad, sin autorización previa del Banco.
+                         f) La hipoteca, el embargo, la reducción del capital social o la venta del veinte por ciento o más de
+                         su activo patrimonial, salvo que otorgue las garantías suficientes conforme al apartado h)
+
+
+
+
+                                                                                                                                   1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-5/11-10
+                         siguiente.
+                         g) La prestación de avales o garantías de cualquier tipo en favor de terceros o la realización de
+                         cualesquiera otros actos que de modo directo o indirecto comprometan su solvencia sin
+                         consentimiento previo del Banco.
+                         h) Si no constituyera mediante documento público dentro del plazo de cinco días naturales a
+                         contar desde la fecha en que el Banco les requiera para ello las garantías reales suficientes a
+                         satisfacción del Banco en aseguramiento del capital pendiente del préstamo más sus intereses y
+                         comisiones de tres anualidades al tipo pactado con más otro diez por ciento del total importe
+                         garantizado para cubrir gastos y costas.
+                         i) Cuando se compruebe falseamiento en los datos y documentos aportados que hayan servido de
+                         base para la concesión del préstamo o para la vigencia o continuidad del mismo.
+                         j) En el caso de que se solicite o declare la situación de concurso de cualquiera de ellos, por
+                         constituir la operación de préstamo un contrato unilateral no afectado por el artículo 61 de la Ley
+                         Concursal.
+                         k) Cuando concurriera cualquiera de las causas de vencimiento anticipado establecidas por el
+                         Derecho, en especial las previstas en el artículo 1.129 del Código Civil.
+
+                         Comunicado el vencimiento del presente contrato por cualquiera de estas otras causas y
+                         requerido/s de pago, el o los prestatarios vendrá/n obligado/s solidariamente, en caso de ser
+                         varios, a la cobertura del capital pendiente del préstamo, más los intereses devengados, en el
+                         término de treinta días naturales contados desde la fecha de dicha comunicación.
+                         En caso de incumplimiento de las obligaciones de pago asumidas por el o los prestatarios y/o, en
+                         su caso, del o de los fiador/es, el banco podrá instar la reclamación judicial de la deuda e iniciar
+                         acciones para el embargo de cualesquiera bienes de su propiedad, dada la responsabilidad
+                         personal e ilimitada del o de los mismos y hasta el completo pago de la deuda reclamada.
+                         Asimismo, el banco podrá facilitar información a prestadores de servicios sobre solvencia
+                         patrimonial y crédito, en relación con los incumplimientos del o de los prestatarios relativos al
+                         contrato incumplido.
+
+                         11ª. Compensaciones
+                         Se faculta expresamente al Banco en forma irrevocable y en tanto no haya quedado cancelado
+                         totalmente el presente préstamo, para:
+                         a) Aplicar en cualquier tiempo al préstamo formalizado mediante este contrato, los saldos
+                         acreedores que figuren en otras cuentas existentes en el Banco a nombre de cualquiera del/de los
+                         Prestatario/s y/o del/de los Fiador/es, hasta donde dichos saldos alcanzaren, pudiendo a estos
+                         efectos utilizar los saldos que estime adecuados sin necesidad de dividir la deuda entre los
+                         distintos obligados, cualquiera que sea la forma y documentos en que estén representados, la
+   PRC01007E -VII-2010
+
+
+
+
+                         fecha de sus vencimientos -que a este efecto podrá anticipar el Banco- y el título de sus derechos,
+                         incluso el de depósito.
+                         b) Aplicar al préstamo formalizado por este contrato, las sumas que pueda percibir por cuenta
+                         del/de los deudor/es aunque no vayan expresamente consignadas para el pago del préstamo.
+   PRC0101E
+
+
+
+
+                                                                                                                        Página 5
+#¡ !#PRC0101#
+
+
+
+
+                         c) Proceder en cualquier momento -incluso en cualquier día posterior al vencimiento del
+                         préstamo- a la realización y/o venta de los depósitos constituidos en el Banco de efectos, activos
+                         financieros, valores, créditos de cualquier clase, y cualquier otro depósito o activo financiero de
+                         cualquier naturaleza, ya estén representados por títulos, derechos, anotaciones en cuenta y otros,
+                         depositados o gestionados por el Banco o por cualquier sociedad de su grupo, propiedad de
+                         cualquiera del/de los Prestatario/s y/o Fiador/es, aun cuando no estén especialmente afectos en
+                         garantía de este préstamo, firmando los correspondientes vendís y demás documentos necesarios
+                         al efecto, para lo cual, mediante este contrato, le confiere/n mandato expreso el/los Prestatario/s
+                         y el/los Fiador/es del préstamo hasta cubrir, con las cantidades que se obtengan, cuanto el Banco
+                         acredite por cualquier concepto por razón del préstamo que se contrata, anticipando de ser
+                         menester el plazo que tuvieran establecido.
+                         Las facultades de realización y/o venta previstas en el presente apartado se extienden
+                         expresamente a las participaciones de los fondos de inversión gestionadas por la/s sociedades
+                         gestora/s del grupo Banco Sabadell de las que el/los Prestatario/s y/o Fiador/es sean titulares
+                         actualmente o en el futuro. El presente documento tiene el valor legal de orden irrevocable de
+                         reembolso de participaciones, para lo que el/los Prestatario/s y el/los Fiador/es autorizan de
+                         modo expreso y legal al Banco. El precio de las participaciones será el valor liquidativo de las
+                         mismas, publicado en el Boletín Oficial de cotización de la Bolsa de Valores de Madrid, y fijado de
+                         conformidad con lo dispuesto en el Reglamento del Fondo de Inversión correspondiente, y en las
+                         disposiciones que sean de aplicación.
+                         El mandato conferido en el presente apartado no podrá ser revocado hasta la total cancelación de
+                         las obligaciones de pago que pudieran derivarse de este contrato. d) Aun antes del vencimiento,
+
+
+
+
+                                                                                                                                 1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-6/11-10
+                         suspender la disponibilidad de las cuentas del/de los Prestatario/s, cuando considere que el
+                         préstamo no está suficientemente garantizado.
+
+                         12ª. Otras obligaciones
+                         a) Mientras el/los Prestatario/s y el/los Fiador/es no hayan reembolsado al Banco todas las
+                         obligaciones derivadas de esta operación y aparte de la afección y garantía general de todos sus
+                         bienes presentes y futuros, se comprometen a no realizar acto alguno de enajenación y gravamen,
+                         ni a llevar a cabo modificaciones o gravámenes en su patrimonio o capital, que puedan disminuir
+                         su valor en relación con la responsabilidad que tiene/n contraída para con el Banco.
+                         b) En el plazo máximo de cinco días naturales contados desde el siguiente al del requerimiento
+                         que a tal efecto se practique por el Banco, el/los Prestatario/s y/o Fiador/es se obligan a otorgar
+                         mediante el correspondiente documento público garantía real sobre bienes suficientes a
+                         satisfacción del Banco, en aseguramiento del capital pendiente del préstamo más sus intereses y
+                         comisiones de tres anualidades al tipo pactado con más otro diez por ciento del total importe
+                         garantizado para cubrir gastos y costas.
+                         La suma de los tres conceptos servirá como tipo de tasación para el procedimiento judicial
+                         sumario. Cuantos honorarios, gastos e impuestos se devenguen por la formalización de la garantía
+                         real serán a cargo del/de los Prestatario/s y Fiador/es.
+                         c) El/Los Prestatario/s y el/los Fiador/es se obligan durante la vigencia del presente contrato, y
+                         dentro de los quince días siguientes a su aprobación por la Junta General de la Sociedad, a
+                         suministrar al Banco la memoria, el balance y las cuentas de resultados de cada ejercicio.
+                         Asimismo se obligan a facilitar al Banco, en cualquier momento, cuanta información y
+                         documentación de carácter o trascendencia económica, financiera o contable el Banco le/s
+                         requiera.
+                         d) El/Los intervinientes en el presente contrato como Prestatario/s y/o Fiador/es que se hallaren
+                         casados, se comprometen a no modificar su actual régimen económico matrimonial sin dejar
+                         expresamente a salvo las obligaciones contraídas con el Banco por razón del mismo y se establece
+                         que el incumplimiento de este pacto no producirá efectos frente al Banco, aunque la modificación
+                         se inscriba en los Registros Civil y Mercantil.
+
+                         13ª. Acción judicial
+                         Vencido el préstamo por haber llegado a su término o por cualquiera de las causas previstas en
+                         este contrato, el Banco podrá exigir su pago por vía ejecutiva conforme al artículo 517 de la Ley de
+                         Enjuiciamiento Civil, con el fin de reintegrarse del importe acreditado, con más los intereses,
+                         comisiones, impuestos y gastos devengados y que se devenguen y costas que se originen en el
+                         procedimiento.
+                         Sin perjuicio de que se trata de un contrato de préstamo cuyo importe es líquido desde su
+   PRC01007E -VII-2010
+
+
+
+
+                         formalización y sin que ello afecte a su naturaleza de contrato real ni a la preferencia de cobro que
+                         ello comporta, se pacta expresamente por los contratantes que la cantidad exigible en caso de
+                         ejecución será la resultante de la liquidación efectuada por el Banco en la forma convenida por las
+   PRC0101E
+
+
+
+
+                                                                                                                      Página 6
+#¡ !#PRC0101#
+
+
+
+
+                         partes en el presente contrato, el cual expedirá para su acreditación la oportuna certificación
+                         intervenida por fedatario público.
+                         La parte deudora presta su consentimiento para que el Banco pueda solicitar testimonios o copias
+                         autorizadas con carácter ejecutivo y así se haga constar en la nota de expedición de las mismas.
+
+                         14ª. Comunicaciones
+                         El o los prestatarios y/o, en su caso, el o los fiadores facultan al banco para que cuantos avisos,
+                         requerimientos, comunicaciones y notificaciones les dirija el banco de manera individualizada, en
+                         relación con este préstamo, puedan ser facilitados y puestos a disposición del o los prestatarios
+                         y/o, en su caso, del o los fiadores:
+                         - A través del servicio de banca a distancia del banco, en caso de que el o los prestatarios y/o, en
+                         su caso, el o los fiadores lo tengan contratado.
+                         - O bien mediante comunicaciones a distancia: a través de correo electrónico, teléfono móvil del o
+                         los prestatarios, y del o los fiadores, que se indiquen en las estipulaciones particulares del
+                         presente contrato, o las que, en su caso, se hubieren comunicado al banco en cada momento, así
+                         como a través de cualquier otro medio equivalente actual o futuro que el banco tenga disponible.
+
+                         Sin perjuicio de lo anterior, el banco podrá remitir en papel al domicilio del o los prestatarios y/o,
+                         en su caso, del o los fiadores, que figura en las estipulaciones particulares del préstamo, o el que
+                         hubiesen comunicado con posterioridad al banco, las comunicaciones o notificaciones
+                         relacionadas con este préstamo que considere convenientes. Si el o los prestatarios y/o, en su
+                         caso, el o los fiadores cambiaran su domicilio, este deberá hallarse situado necesariamente y en
+
+
+
+
+                                                                                                                                  1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-7/11-10
+                         todo caso en España para que sea considerado válido y vinculante por lo que respecta al
+                         préstamo.
+
+                         15ª. Impuestos y otros costes
+                         Todos los impuestos, tributos, corretajes, honorarios, aranceles y costes, de la naturaleza que
+                         sean, devengados o que se devenguen como consecuencia de la preparación, otorgamiento o
+                         cumplimiento de este contrato, así como los correspondientes a la expedición de copias del
+                         mismo, incluidos los testimonios o copias autorizadas con carácter ejecutivo, serán de cargo
+                         del/de los Prestatario/s, salvo que el Banco resulte legalmente sujeto pasivo de dichos conceptos.
+                         El Banco queda autorizado para su cargo en la cuenta de los Prestatario/s.
+
+                         16ª. Constitución de garantía y obligación solidaria
+                         a) El/Los Fiador/es consignado/s en el apartado correspondiente de las Estipulaciones
+                         particulares garantiza/n al banco el cumplimiento de todas y cada una de las obligaciones
+                         asumidas por el/los Prestatario/s en este contrato, constituyéndose en consecuencia, mientras no
+                         quede reembolsada la operación, en fiador/es solidario/s del/de los Prestatario/s con igual
+                         carácter solidario entre sí y con renuncia expresa a los beneficios de orden, excusión y división y
+                         cualesquiera otros que con carácter general o particular pudiera/n corresponderle/s con arreglo a
+                         lo dispuesto en los artículos 439 y siguientes del Código de Comercio y 1.144, 1.822, 1.831,
+                         1.837 y concordantes del Código Civil, relevando además al banco de toda notificación por falta de
+                         pago del/de los Prestatario/s.
+                         Este afianzamiento se hace extensivo a cualesquiera modificaciones, renovaciones o prórrogas de
+                         cualquier clase, tácitas o expresas, que pudieran producirse en las obligaciones establecidas en el
+                         presente contrato y de cuantas las noven o sustituyan.
+                         El banco no tendrá la obligación de dar cuenta al/a los Fiador/es del resultado y estado de la
+                         presente operación del préstamo, no obstante el/los Fiador/es podrá/n solicitar al banco, en
+                         cualquier momento, la información necesaria para la determinación del importe a que asciende las
+                         obligaciones garantizadas.
+                         b) El/Los Prestatario/s se obligan solidariamente entre sí y con el/los Fiador/es solidario/s a dar
+                         cumplimiento a todas y cada una de las obligaciones derivadas del presente contrato.
+                         c) De conformidad con lo establecido en el apartado 2 del artículo 135 de la Ley Concursal, para el
+                         caso de declaración de concurso de cualesquiera de los Prestatarios y/o Fiadores, las partes
+                         convienen en forma expresa que, en el supuesto de que el banco votara favorablemente el
+                         correspondiente convenio, no quedará vinculado por éste en cuanto a la subsistencia plena de sus
+                         derechos frente al resto de Prestatarios y/o Fiadores, quiénes no podrán invocar ni la aprobación
+                         ni los efectos del convenio en perjuicio del banco.
+                         d) En relación con el contenido del afianzamiento que otorga/n, el/los Fiador/es reconoce/n haber
+   PRC01007E -VII-2010
+
+
+
+
+                         sido informado/s previamente por el banco de las siguientes consecuencias relativas a que:
+                               (i) En caso de incumplimiento por la parte prestataria de sus obligaciones de pago, el/los
+                                   Fiador/es responde/n ante el banco del pago del préstamo con todos sus bienes
+                                   presentes y futuros.
+   PRC0101E
+
+
+
+
+                                                                                                                       Página 7
+#¡ !#PRC0101#
+
+
+
+
+                              (ii) El banco podrá dar por vencido de pleno derecho el préstamo y exigir la totalidad de lo
+                                   adeudado por capital e intereses, cuando concurra alguna de las circunstancias de
+                                   vencimiento anticipado previstas en el presente contrato.
+                              (iii) El afianzamiento que se otorga es de carácter solidario con la parte prestataria y, en su
+                                   caso, con el resto de Fiadores, lo que significa que, en caso de incumplimiento de la
+                                   obligación principal, el banco podrá reclamar al mismo tiempo a todos (Prestatario/s y
+                                   Fiador/es) o solamente a uno cualquiera de ellos, a elección del banco, la totalidad del
+                                   importe de la deuda que acredite contra el/los Prestatario/s.
+                              (iv) La renuncia del/de los Fiador/es a los beneficios de división, excusión y orden implica,
+                                   respectivamente:
+                                    a. División: que el banco puede reclamar a un Fiador el pago de la deuda, aunque existan
+                                       otros Fiadores que garanticen la misma sin que se pueda exigir que el banco divida la
+                                       reclamación del importe de la deuda con los otros Fiadores, sin perjuicio de que, en
+                                       caso de que se pague al banco dicha deuda, se pueda reclamar posteriormente al
+                                       resto de Fiadores la parte que a cada uno corresponda.
+                                    b. Excusión: que el banco puede reclamar a un Fiador el pago de la deuda aunque la
+                                       parte prestataria tenga bienes suficientes que no hayan sido ejecutados.
+                                    c. Orden: que no se puede exigir al banco que reclame previamente a la parte prestataria
+                                       antes de dirigirse contra el/los Fiador/es.
+
+                         17ª. Central de Información de Riesgos (CIR)
+                         Se informa al/a los Prestatario/s y al/a los Fiador/es de que, de conformidad con lo previsto en la
+
+
+
+
+                                                                                                                                 1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-8/11-10
+                         Ley 44/2002, el Banco está legalmente obligado a declarar a la CIR del Banco de España los datos
+                         necesarios para identificar a las personas físicas o jurídicas con quien éste mantenga, directa o
+                         indirectamente, riesgos de crédito, así como las características de dichas personas y riesgos,
+                         incluyendo en particular las que afecten al importe y la recuperabilidad de éstos. Esta obligación se
+                         extiende a los riesgos mantenidos a través de entidades instrumentales integradas en los grupos
+                         consolidables del Banco y a aquéllos que hayan sido cedidos a terceros conservando el Banco su
+                         administración.
+                         Entre los datos a que se refiere el párrafo anterior se incluirán aquéllos que reflejen una situación
+                         de incumplimiento, por dichas personas, de sus obligaciones frente al Banco, así como los que
+                         pongan de manifiesto una situación en la cual el Banco estuviera obligado a dotar una provisión
+                         específica en cobertura de riesgo de crédito, según lo previsto en las normas de contabilidad de
+                         aplicación al Banco.
+                         En caso de tratarse de riesgos de empresarios individuales actuando en el ejercicio de su actividad
+                         empresarial, se hará constar tal condición en la declaración efectuada.
+                         Asimismo, también se informa al/a los Prestatario/s y al/a los Fiador/es de que el Banco podr á
+                         obtener informes sobre los riesgos de los mismos registrados en la CIR, pudiendo ceder en el caso
+                         de personas jurídicas dichos datos a las entidades financieras y entidades de crédito que formen
+                         parte del mismo grupo consolidable al que el Banco pertenezca según se determina en la Ley
+                         13/1992, de 1 de junio, de Recursos Propios y Supervisión en Base Consolidada de las Entidades
+                         Financieras y en su normativa de desarrollo. En el caso de personas físicas, podrá ceder los datos
+                         a dichas entidades cuando sean necesarios para asegurar el efectivo cumplimiento de la
+                         normativa sobre concentración de riesgos, cálculo de requerimientos de recursos propios mínimos
+                         y cualquier otra prevista en la Ley 13/1985, de 25 de mayo, sobre Coeficientes de Inversión,
+                         Recursos propios y Obligaciones de Información de los Intermediarios Financieros y disposiciones
+                         que la desarrollan. Con relación a los riesgos declarados a la CIR del/de los Prestatario/s y del/de
+                         los Fiador/es, estos quedan informados que podrán ejercitar los derechos de acceso, rectificación
+                         y supresión, así como otros derechos, ante el Banco de España, calle Alcalá 48, 28014 Madrid,
+                         según los términos previstos legalmente.
+
+                         18ª. Cesiones
+                         El Banco podrá, durante la vigencia del presente contrato, ceder o transferir, total o parcialmente,
+                         el crédito ostentado a terceras personas, físicas o jurídicas, tengan o no éstas la condición de
+                         entidades de crédito.
+                         Las cesiones en una sola vez o en varias, podrán referirse tanto a la totalidad del préstamo como a
+                         una parte alícuota del mismo, siempre y cuando no suponga incremento de coste o gastos para
+                         el/los deudor/es.
+   PRC01007E -VII-2010
+
+
+
+
+                         19ª. Compatibilidad con otros contratos y garantías
+                         Esta póliza es compatible con todos los demás contratos y garantías que el Banco haya admitido o
+                         admita en lo sucesivo tanto del/de los Prestatario/s como de terceras personas garantizando a los
+   PRC0101E
+
+
+
+
+                                                                                                                      Página 8
+#¡ !#PRC0101#
+
+
+
+
+                         mismos, pudiendo el Banco ejercitar indistinta, alternativa y simultá neamente, los derechos
+                         derivados de este contrato y los demás que le correspondan.
+
+                         20ª. Derecho aplicable
+                         Este contrato tiene carácter mercantil y se regirá en primer término por las estipulaciones
+                         contenidas en el mismo y en lo que en ellas no estuviere previsto, se atendrán las par tes
+                         contratantes a las disposiciones del Código de Comercio, leyes especiales, a los usos y costumbres
+                         mercantiles y, en su defecto, a lo establecido en el Código Civil.
+                         Dado que el/los Prestatario/s actúan en el ámbito de su actividad profesional o empresarial, las
+                         partes acuerdan que no les resultará de aplicación la Orden EHA/2899/2011 de 28 de octubre, de
+                         transparencia y protección del cliente de servicios bancarios, ni la Circular 5/2012, de 27 de junio,
+                         del Banco de España, a entidades de crédito y proveedores de servicios de pago, sobre
+                         transparencia de los servicios bancarios y responsabilidad en la concesión de préstamos (salvo lo
+                         establecido en sus normas decimotercera o decimoquinta), ni los pactos de este contrato
+                         derivados de la citada Orden y Circular.
+                         Si el/los Prestatario/s es/son Pyme/s, microempresa/s, pequeña/s o mediana/s empresa/s (de
+                         acuerdo con la Recomendación 2003/361/CE de la Comisión, de 6 de mayo de 2003), o
+                         persona/s física/s que ejerce/n actividades económicas de forma autónoma (según lo establecido
+                         en la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo), se le/s informa de que,
+                         conforme a lo establecido en la Ley 5/2015, de 27 de abril de fomento de la financiación
+                         empresarial, en el caso de que el Banco tenga intención de no prorrogar o extinguir el flujo de
+                         financiación que le venga concediendo, o de disminuirlo en una cuantía igual o superior al 35 por
+
+
+
+
+                                                                                                                                    1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-9/11-10
+                         ciento deberá notificárselo con una antelación mínima de tres meses, por cualquier medio que
+                         permita tener constancia de la recepción, excepto en los supuestos previstos en el punto 4 del
+                         artículo 1 de la referida Ley 5/2015. De producirse la referida notificación, y dentro de los diez días
+                         hábiles a contar desde el siguiente a la misma, tendrá/n derecho a que el Banco le/s proporcione,
+                         gratuitamente, el documento denominado "Información Financiera-Pyme" previsto en la citada Ley.
+                         Este documento también podrá/n solicitarlo en cualquier momento y de forma incondicionada, si
+                         bien en este caso el Banco podrá exigirle/s el pago del precio que tenga establecido para este
+                         servicio y dispone de quince días hábiles a contar desde el día siguiente al de la solicitud para
+                         ponerle/s a su disposición dicha información.
+
+                         21ª. Formalización
+                         Este contrato se ha formalizado, según se expresa anteriormente, con intervención del notario, a
+                         partir de la primera firma distinta de la del propio banco, a todos los efectos, incluso a los previstos
+                         en los artículos 517 y 572 de la Ley de Enjuiciamiento Civil y demás legislación concordante. En
+                         cumplimiento de lo establecido en la normativa legal vigente, a la firma del presente contrato se
+                         entrega un ejemplar del mismo a cada una de las partes contratantes, sirviendo la propia firma del
+                         documento de "recibí" por parte del prestatario.
+
+                         22ª. No vinculación del contrato a un acuerdo en exclusiva de financiación
+                         Las partes hacen constar que la concesión del presente préstamo no se deriva de un acuerdo en
+                         exclusiva de financiación a favor de la entidad prestamista y que el/los Prestatario/s han optado
+                         libremente a la formalización del presente préstamo, sin que haya existido limitación a obtenerlo
+                         de otras entidades de crédito.
+
+                         23ª. Utilización de la red de oficinas del grupo
+                         El/Los Prestatario/s podrá/n utilizar la red de oficinas de los bancos del grupo Banco Sabadell
+                         para la realización con las sociedades del grupo Banco Sabadell de las consultas y operaciones
+                         que en cada momento estén disponibles.
+
+                         24ª. Información básica sobre protección de datos de carácter personal
+                         Responsable: Banco de Sabadell, S.A. con domicilio social: Avda. Óscar Esplá, núm. 37, 03007
+                         Alicante.    Datos     de     contacto     del    Delegado      de     Protección     de      Datos:
+                         DataProtectionOfficer@bancsabadell.com
+                         Finalidades y legitimación: La finalidad principal es la gestión y el desarrollo de la
+                         solicitud/contrato/operación basada su legitimación en la propia ejecución de la
+                         solicitud/contrato/operación. En caso de que otorgue su consentimiento, sus datos se tratarán
+                         para la elaboración de perfiles con fines comerciales. Para el resto de finalidades ver el siguiente
+   PRC01007E -VII-2010
+
+
+
+
+                         apartado sobre Información adicional.
+                         Destinatarios: No se cederán datos a terceros salvo obligación legal o en el caso que haya
+                         otorgado su consentimiento en virtud de un acuerdo específico establecido con el Banco.
+   PRC0101E
+
+
+
+
+                                                                                                                        Página 9
+#¡ !#PRC0101#
+
+
+
+
+                         Procedencia de los datos: Datos de cumplimiento o incumplimiento de obligaciones dinerarias
+                         procedentes de Sistemas Comunes de Información Crediticia; y, en el caso de que se lo haya
+                         autorizado: datos que obren en entidades del grupo Banco Sabadell o terceras entidades y
+                         Tesorería General de la Seguridad Social.
+                         Tratamiento de datos en caso de incumplimiento de obligaciones dinerarias: El o los firmantes
+                         quedan informados de que en caso de no producirse el pago de las obligaciones dinerarias que se
+                         prevean en el contrato a favor del banco, en el término previsto para ello, los datos relativos al
+                         impago podrán ser comunicados a Sistemas comunes de información crediticia para su inclusión
+                         en los respectivos ficheros (ASNEF; BADEXCUG; CIRBE; RAI) relativos al cumplimiento o
+                         incumplimiento de obligaciones dinerarias. En el caso de personas físicas deberán cumplirse a tal
+                         efecto los requisitos previstos en el artículo 38 del Real Decreto 1720/2007, de 21 de diciembre,
+                         por el que se aprueba el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de
+                         diciembre o en la normativa que la modifique o sustituya.
+                         Derechos: Puede dirigirse por escrito a la unidad Derechos Protección de Datos del banco a través
+                         de su domicilio social u oficinas o a través de la dirección de correo electrónico siguiente:
+                         Ejercicioderechosprotecdatos@bancsabadell.com, con la finalidad de ejercitar los derechos de
+                         acceso, rectificación, oposición, supresión, limitación y portabilidad y para ejercitar el derecho a
+                         oponerse a decisiones individuales automatizadas que puedan afectarle significativamente o
+                         comportarle efectos jurídicos, de acuerdo con el artículo 22 del Reglamento de la UE 2016/679.
+                         Información adicional: Puede/n obtener información adicional en el Anexo publicado en la web del
+                         banco (www.bancsabadell.com, apartado "Información a clientes" "Anexo información detallada
+                         sobre protección de datos de carácter personal") o en cualquiera de las oficinas del Banco.
+
+
+
+
+                                                                                                                                 1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-10/11-10
+                         25ª. Procedimientos de reclamación y resolución de conflictos
+                         En caso de que el o los Prestatario/s deseen plantear una queja o reclamación, podrá dirigirse al
+                         Servicio de Atención al Cliente (SAC) del Banco, a través de sus oficinas o su dirección de Internet,
+                         planteando su reclamación de acuerdo con lo previsto en su Reglamento que también tiene a su
+                         disposición a través de los medios indicados.
+                         Asimismo el Contratante podrá, de conformidad con lo establecido en el citado Reglamento dirigir
+                         las posibles reclamaciones al Defensor del Cliente del Banco.
+                         Las quejas y reclamaciones resueltas expresamente por el SAC o por el Defensor, así como las que
+                         se entiendan desestimadas (que no finalicen mediante resolución expresa, salvo allanamiento,
+                         desistimiento, transacción o caducidad), podrán ser reiteradas ante los servicios de reclamaciones
+                         del Banco de España, la Comisión Nacional del Mercado de Valores y/o la Dirección General de
+                         Seguros y Fondos de Pensiones, de conformidad con lo dispuesto en la Ley 44/2002 de Medidas
+                         de Reforma del Sistema Financiero, así como las normas de desarrollo o que las sustituyan.
+                         El Banco no está adherido a la junta arbitral de consumo.
+
+                         26ª. Condiciones generales
+                         Se hace constar que el presente contrato incorpora condiciones generales predispuestas que han
+                         sido conocidas y aceptadas por las partes.
+
+                         27ª. Explicaciones adecuadas
+                         El banco informa al o a los prestatarios de su derecho a solicitar cuantas explicaciones previas
+                         precisen sobre las características del producto/servicio objeto del contrato y sus efectos, incluidas
+                         las consecuencias en caso de impago, así como cuantas informaciones complementarias
+                         requiera/n para poder adoptar una decisión informada y poder comparar ofertas similares.
+                         Por ello el banco informa al o a los prestatarios que solo deberán firmar el presente documento en
+                         el caso de considerar haber obtenido las explicaciones suficientes del producto/servicio
+                         contratado y adecuadas a sus intereses, necesidades y situación financiera.
+   PRC01007E -VII-2010
+   PRC0101E
+
+
+
+
+                                                                                                                     Página 10
+#¡ !#PRC0101#
+
+
+
+
+                         ESPACIO DESTINADO PARA DATOS DE FIRMA DE LOS INTERVINIENTES:
+
+
+
+                         IMAGETOKEN1                                      IMAGETOKEN2
+
+
+
+
+                             IMAGETOKEN3                                  IMAGETOKEN4
+
+
+
+
+                                                                                                    1-230914-PRC0101-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-11/11-11
+                             IMAGETOKEN5                                  IMAGETOKEN6
+   PRC01007E -VII-2010
+   PRC0101E
+
+
+
+
+                                                                                        Página 11
+#¡ !#EFC0201#
+
+
+
+
+                ÚLTIMA HOJA PÓLIZA DE PRÉSTAMO MERCANTIL CON AMORTIZACIONES CONSTANTES
+                NÚM. 807801498880
+                NÚMERO TOTAL DE HOJAS, INCLUIDA LA PRESENTE, QUE COMPONEN LA PÓLIZA: ......
+
+
+                Otorgamiento: las partes declaran expresamente a todos los efectos legales y,
+                especialmente, a los previstos en la Ley 7/1998, de 13 de abril, haber quedado
+                enteradas de las condiciones generales y particulares incorporadas y contenidas en el
+                contrato, comprendidas las de esta hoja, y haber recibido copia del mismo.
+                Los otorgantes manifiestan que con una única firma estampada al final del texto
+                contractual, prestan su conformidad y aprobación a la totalidad del contenido del
+                contrato, tal y como aparece redactado -incluso en relación con el idioma- e incluidas
+                todas las condiciones generales y particulares, anexos, adiciones y documentos
+                incorporados que forman parte integrante y componen la póliza, y por todos los conceptos
+                por los que intervienen en la misma de acuerdo con lo previsto en la Ley 36/2006 de 29
+                de noviembre y el Reglamento de la organización y régimen del Notariado aprobado por
+                Decreto de 2 de junio de 1944 tras su redacción dada por el Real Decreto 45/2007, de
+                19 de enero.
+
+
+
+
+                                                                                                                 1-230914-EFC0201-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-1/2-10
+                Intervención: Yo, el notario interviniente, y habiéndome asegurado en la forma
+                reglamentaria de la identidad de los otorgantes, quienes en el concepto en que
+                intervienen tienen, a mi juicio, la capacidad necesaria para este otorgamiento, DOY FE: de
+                que el consentimiento ha sido libremente prestado, de que el otorgamiento se adecua a
+                la legalidad, de la voluntad debidamente informada de los otorgantes y de su conformidad
+                y aprobación con el contenido de la presente póliza que incluidos, en su caso, anexos,
+                adiciones y documentos incorporados, se integra por el total de hojas arriba indicado,
+                numeradas, sólo en su anverso, correlativamente a partir de la unidad, firmada por los
+                otorgantes y con mi signo, firma, rúbrica y sello al final del texto contractual, y numeradas,
+                selladas y rubricadas por mí las restantes, conforme a lo establecido en la Ley 36/2006
+                de 29 de noviembre, el Decreto de 2 de junio de 1944 tras su redacción dada por el Real
+                Decreto 45/2007, de 19 de enero y las instrucciones de 29 de septiembre de 2000 y de
+                29 de noviembre de 2006, ambas de la Dirección General de los Registros y del
+                Notariado.
+   EFC0201E
+#¡ !#EFC0201#
+
+
+
+
+              En dichos términos, hechas las oportunas reservas y advertencias legales, y
+              especialmente las de carácter fiscal, las partes otorgan la presente póliza CON MI
+              INTERVENCIÓN, conociendo su derecho a obtener copia de la misma. De todo lo cual y
+              del contenido de esta póliza, yo, el Notario, DOY FE.
+
+              En VALENCIA, a ...........................
+
+              EL O LOS PRESTATARIOS                        BANCO DE SABADELL, S.A.
+                                                           p.p.
+
+
+
+              VISUALENS LABS S.L
+              p.p.
+
+
+
+
+                                                                                                   1-230914-EFC0201-00811325-01PR 000807801498880-XXXXXXXX-0-77770000000112533606-2/2-11
+              EL O LOS FIADORES
+   EFC0201E
+
