@@ -1,0 +1,37 @@
+                                                        CUENTA DE PÉRDIDAS Y GANANCIAS
+EMPRESA: VISUALENS LABS, SL                                                           FECHA: 20/08/2026
+Condición: Cuenta de Pérdidas y Ganancias
+           En el Periodo del 01/01/2025 al 31/12/2025
+
+
+
+
+                                CUENTA DE PÉRDIDAS Y GANANCIAS
+
+   A) OPERACIONES CONTINUADAS                                                                   -904,55
+          1. IMPORTE NETO DE LA CIFRA DE NEGOCIOS                                             18.784,05
+              a) VENTAS                                                                       18.784,05
+                    700. VENTAS DE MERCADERÍAS                                                22.876,85
+                    708. DEVOLUCIONES DE VENTAS Y OPERACIONES SIMILARES                       -4.092,80
+          4. APROVISIONAMIENTOS                                                              -17.895,89
+              a) CONSUMO DE MERCADERÍAS                                                      -17.895,89
+                    600. COMPRAS DE MERCADERÍAS                                              -17.895,89
+          6. GASTOS DE PERSONAL                                                               -1.600,00
+              a) SUELDOS, SALARIOS Y ASIMILADOS                                               -1.600,00
+                    640. SUELDOS Y SALARIOS                                                   -1.600,00
+          7. OTROS GASTOS DE EXPLOTACIÓN                                                        -192,71
+              a) SERVICIOS EXTERIORES                                                           -192,71
+                    623. SERVICIOS DE PROFESIONALES INDEPENDIENTES                               -37,87
+                    628. SUMINISTROS                                                            -154,84
+     A.1) RESULTADO DE EXPLOTACIÓN                                                              -904,55
+     A.3) RESULTADO ANTES DE IMPUESTOS                                                          -904,55
+     A.4) RESULTADO DEL EJERCICIO PROCEDENTE DE OPERACIONES CONTINUADAS                         -904,55
+     A.5) RESULTADO DEL EJERCICIO                                                               -904,55
+
+                                                                          TOTAL PyG          -904,55
+
+
+
+
+CUENTA DE PÉRDIDAS Y GANANCIAS                                                                Página 1
+
